@@ -1,0 +1,1471 @@
+CF_age band,Department,Education Field,Employee Number,Gender,Job Role,Marital Status,Age,Education,Employee Count
+35 - 44,Sales,Life Sciences,1,Female,Sales Executive,Single,41,Associates Degree,1
+45 - 54,R&D,Life Sciences,2,Male,Research Scientist,Married,49,High School,1
+35 - 44,R&D,Other,4,Male,Laboratory Technician,Single,37,Associates Degree,1
+25 - 34,R&D,Life Sciences,5,Female,Research Scientist,Married,33,Master's Degree,1
+25 - 34,R&D,Medical,7,Male,Laboratory Technician,Married,27,High School,1
+25 - 34,R&D,Life Sciences,8,Male,Laboratory Technician,Single,32,Associates Degree,1
+Over 55,R&D,Medical,10,Female,Laboratory Technician,Married,59,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,11,Male,Laboratory Technician,Divorced,30,High School,1
+35 - 44,R&D,Life Sciences,12,Male,Manufacturing Director,Single,38,Bachelor's Degree,1
+35 - 44,R&D,Medical,13,Male,Healthcare Representative,Married,36,Bachelor's Degree,1
+35 - 44,R&D,Medical,14,Male,Laboratory Technician,Married,35,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,15,Female,Laboratory Technician,Single,29,Associates Degree,1
+25 - 34,R&D,Life Sciences,16,Male,Research Scientist,Divorced,31,High School,1
+25 - 34,R&D,Medical,18,Male,Laboratory Technician,Divorced,34,Associates Degree,1
+25 - 34,R&D,Life Sciences,19,Male,Laboratory Technician,Single,28,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,20,Female,Manufacturing Director,Divorced,29,Master's Degree,1
+25 - 34,R&D,Life Sciences,21,Male,Research Scientist,Divorced,32,Associates Degree,1
+Under 25,R&D,Medical,22,Male,Laboratory Technician,Divorced,22,Associates Degree,1
+45 - 54,Sales,Life Sciences,23,Female,Manager,Married,53,Master's Degree,1
+35 - 44,R&D,Life Sciences,24,Male,Research Scientist,Single,38,Bachelor's Degree,1
+Under 25,R&D,Other,26,Female,Manufacturing Director,Divorced,24,Associates Degree,1
+35 - 44,Sales,Life Sciences,27,Male,Sales Representative,Single,36,Master's Degree,1
+25 - 34,R&D,Life Sciences,28,Female,Research Director,Single,34,Master's Degree,1
+Under 25,R&D,Life Sciences,30,Male,Research Scientist,Single,21,Associates Degree,1
+25 - 34,R&D,Medical,31,Male,Research Scientist,Single,34,High School,1
+45 - 54,R&D,Other,32,Female,Manager,Divorced,53,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,33,Female,Research Scientist,Single,32,High School,1
+35 - 44,Sales,Marketing,35,Male,Sales Executive,Married,42,Master's Degree,1
+35 - 44,R&D,Medical,36,Female,Healthcare Representative,Married,44,Master's Degree,1
+45 - 54,Sales,Marketing,38,Female,Manager,Single,46,Master's Degree,1
+25 - 34,R&D,Medical,39,Male,Laboratory Technician,Single,33,Bachelor's Degree,1
+35 - 44,R&D,Other,40,Male,Healthcare Representative,Married,44,Master's Degree,1
+25 - 34,R&D,Medical,41,Male,Laboratory Technician,Single,30,Associates Degree,1
+35 - 44,Sales,Technical Degree,42,Male,Sales Representative,Married,39,Bachelor's Degree,1
+Under 25,R&D,Medical,45,Male,Research Scientist,Married,24,Bachelor's Degree,1
+35 - 44,R&D,Medical,46,Female,Research Scientist,Divorced,43,Associates Degree,1
+45 - 54,Sales,Marketing,47,Male,Sales Representative,Married,50,Associates Degree,1
+35 - 44,Sales,Marketing,49,Female,Sales Representative,Married,35,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,51,Female,Research Scientist,Married,36,Master's Degree,1
+25 - 34,Sales,Life Sciences,52,Female,Sales Executive,Married,33,Bachelor's Degree,1
+35 - 44,R&D,Other,53,Male,Laboratory Technician,Divorced,35,Associates Degree,1
+25 - 34,R&D,Life Sciences,54,Female,Laboratory Technician,Divorced,27,Master's Degree,1
+25 - 34,R&D,Life Sciences,55,Male,Laboratory Technician,Single,26,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,56,Male,Sales Executive,Single,27,Bachelor's Degree,1
+25 - 34,R&D,Medical,57,Female,Laboratory Technician,Single,30,Associates Degree,1
+35 - 44,R&D,Technical Degree,58,Female,Research Director,Married,41,Bachelor's Degree,1
+25 - 34,Sales,Marketing,60,Male,Sales Executive,Single,34,Master's Degree,1
+35 - 44,R&D,Life Sciences,61,Male,Research Scientist,Married,37,Associates Degree,1
+45 - 54,Sales,Marketing,62,Male,Sales Executive,Single,46,Master's Degree,1
+35 - 44,R&D,Life Sciences,63,Male,Laboratory Technician,Married,35,High School,1
+45 - 54,R&D,Life Sciences,64,Male,Laboratory Technician,Single,48,Associates Degree,1
+25 - 34,R&D,Technical Degree,65,Male,Laboratory Technician,Single,28,Master's Degree,1
+35 - 44,Sales,Marketing,68,Female,Sales Executive,Divorced,44,Doctoral Degree,1
+35 - 44,R&D,Medical,70,Male,Healthcare Representative,Married,35,Associates Degree,1
+25 - 34,Sales,Marketing,72,Female,Sales Executive,Married,26,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,73,Female,Research Director,Single,33,Associates Degree,1
+35 - 44,Sales,Life Sciences,74,Male,Sales Executive,Married,35,Doctoral Degree,1
+35 - 44,R&D,Medical,75,Female,Laboratory Technician,Married,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,76,Male,Laboratory Technician,Divorced,31,Master's Degree,1
+35 - 44,R&D,Life Sciences,77,Male,Manufacturing Director,Divorced,37,Master's Degree,1
+25 - 34,R&D,Medical,78,Male,Manufacturing Director,Married,32,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,79,Female,Laboratory Technician,Single,38,Doctoral Degree,1
+45 - 54,R&D,Medical,80,Female,Research Director,Divorced,50,Associates Degree,1
+Over 55,Sales,Life Sciences,81,Female,Sales Executive,Single,59,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,83,Female,Healthcare Representative,Divorced,36,Bachelor's Degree,1
+Over 55,R&D,Medical,84,Female,Manager,Divorced,55,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,85,Male,Manufacturing Director,Single,36,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,86,Male,Research Scientist,Divorced,45,Bachelor's Degree,1
+35 - 44,R&D,Medical,88,Male,Research Scientist,Married,35,Bachelor's Degree,1
+35 - 44,R&D,Medical,90,Male,Research Scientist,Married,36,Bachelor's Degree,1
+Over 55,Sales,Life Sciences,91,Female,Sales Executive,Single,59,High School,1
+25 - 34,R&D,Life Sciences,94,Male,Research Scientist,Married,29,Bachelor's Degree,1
+25 - 34,R&D,Medical,95,Male,Research Scientist,Single,31,Master's Degree,1
+25 - 34,R&D,Life Sciences,96,Male,Research Scientist,Married,32,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,97,Female,Laboratory Technician,Married,36,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,98,Female,Manufacturing Director,Single,31,Master's Degree,1
+35 - 44,Sales,Marketing,100,Male,Sales Executive,Single,35,Master's Degree,1
+45 - 54,R&D,Other,101,Male,Research Director,Married,45,Master's Degree,1
+35 - 44,R&D,Medical,102,Male,Research Director,Single,37,Master's Degree,1
+45 - 54,HR,Medical,103,Male,Human Resources,Divorced,46,Associates Degree,1
+25 - 34,R&D,Life Sciences,104,Male,Laboratory Technician,Married,30,High School,1
+35 - 44,R&D,Medical,105,Male,Research Scientist,Single,35,Bachelor's Degree,1
+Over 55,Sales,Life Sciences,106,Male,Sales Executive,Married,55,Associates Degree,1
+35 - 44,R&D,Medical,107,Female,Research Scientist,Divorced,38,Bachelor's Degree,1
+25 - 34,R&D,Medical,110,Male,Manufacturing Director,Married,34,Associates Degree,1
+Over 55,R&D,Life Sciences,112,Male,Manufacturing Director,Single,56,Bachelor's Degree,1
+Under 25,Sales,Technical Degree,113,Male,Sales Representative,Divorced,23,High School,1
+45 - 54,R&D,Life Sciences,116,Male,Laboratory Technician,Married,51,Master's Degree,1
+25 - 34,R&D,Life Sciences,117,Male,Healthcare Representative,Married,30,Bachelor's Degree,1
+45 - 54,Sales,Medical,118,Male,Sales Executive,Single,46,Associates Degree,1
+35 - 44,R&D,Life Sciences,119,Male,Healthcare Representative,Married,40,Master's Degree,1
+45 - 54,Sales,Marketing,120,Male,Sales Executive,Single,51,Master's Degree,1
+25 - 34,Sales,Medical,121,Female,Sales Executive,Divorced,30,Associates Degree,1
+45 - 54,R&D,Medical,124,Male,Healthcare Representative,Married,46,Bachelor's Degree,1
+25 - 34,Sales,Medical,125,Male,Sales Executive,Single,32,Master's Degree,1
+45 - 54,R&D,Technical Degree,126,Female,Research Director,Married,54,Master's Degree,1
+Under 25,Sales,Other,128,Female,Sales Executive,Married,24,Associates Degree,1
+25 - 34,Sales,Medical,129,Male,Sales Executive,Married,28,Bachelor's Degree,1
+Over 55,Sales,Medical,131,Male,Sales Executive,Single,58,Master's Degree,1
+35 - 44,R&D,Medical,132,Male,Laboratory Technician,Married,44,Bachelor's Degree,1
+35 - 44,HR,Human Resources,133,Male,Human Resources,Divorced,37,Master's Degree,1
+25 - 34,R&D,Life Sciences,134,Male,Research Scientist,Single,32,High School,1
+Under 25,R&D,Life Sciences,137,Female,Laboratory Technician,Single,20,Bachelor's Degree,1
+25 - 34,R&D,Other,138,Female,Research Scientist,Single,34,Master's Degree,1
+35 - 44,R&D,Life Sciences,139,Male,Healthcare Representative,Divorced,37,Associates Degree,1
+Over 55,HR,Human Resources,140,Female,Manager,Married,59,Master's Degree,1
+45 - 54,R&D,Life Sciences,141,Female,Research Director,Married,50,Bachelor's Degree,1
+25 - 34,Sales,Marketing,142,Male,Sales Executive,Single,25,Bachelor's Degree,1
+25 - 34,R&D,Medical,143,Male,Research Scientist,Married,25,High School,1
+Under 25,R&D,Medical,144,Female,Laboratory Technician,Single,22,Bachelor's Degree,1
+45 - 54,R&D,Medical,145,Female,Healthcare Representative,Single,51,Master's Degree,1
+25 - 34,R&D,Life Sciences,147,Male,Laboratory Technician,Single,34,Bachelor's Degree,1
+45 - 54,HR,Human Resources,148,Female,Manager,Single,54,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,150,Male,Laboratory Technician,Married,24,High School,1
+25 - 34,R&D,Life Sciences,151,Female,Research Scientist,Divorced,34,Master's Degree,1
+35 - 44,Sales,Life Sciences,152,Male,Sales Executive,Single,37,Bachelor's Degree,1
+25 - 34,R&D,Medical,153,Female,Manager,Single,34,Bachelor's Degree,1
+35 - 44,Sales,Technical Degree,154,Female,Sales Executive,Married,36,Associates Degree,1
+35 - 44,R&D,Life Sciences,155,Female,Laboratory Technician,Divorced,36,Associates Degree,1
+35 - 44,Sales,Life Sciences,158,Male,Manager,Married,43,Associates Degree,1
+25 - 34,R&D,Life Sciences,159,Male,Research Scientist,Divorced,30,Bachelor's Degree,1
+25 - 34,Sales,Marketing,160,Male,Sales Executive,Married,33,Associates Degree,1
+Over 55,R&D,Life Sciences,161,Female,Research Scientist,Married,56,Master's Degree,1
+45 - 54,R&D,Life Sciences,162,Male,Research Director,Single,51,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,163,Male,Sales Executive,Married,31,Master's Degree,1
+25 - 34,R&D,Other,164,Female,Research Scientist,Married,26,Bachelor's Degree,1
+Over 55,R&D,Medical,165,Female,Healthcare Representative,Married,58,Master's Degree,1
+Under 25,Sales,Marketing,167,Male,Sales Representative,Single,19,High School,1
+Under 25,R&D,Technical Degree,169,Male,Laboratory Technician,Married,22,High School,1
+45 - 54,R&D,Medical,170,Female,Manufacturing Director,Married,49,Master's Degree,1
+35 - 44,R&D,Medical,171,Female,Research Scientist,Single,43,Bachelor's Degree,1
+45 - 54,Sales,Marketing,174,Female,Sales Executive,Single,50,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,175,Female,Sales Executive,Married,31,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,176,Male,Sales Executive,Divorced,41,High School,1
+25 - 34,HR,Life Sciences,177,Female,Human Resources,Married,26,High School,1
+35 - 44,R&D,Medical,178,Male,Manufacturing Director,Divorced,36,Associates Degree,1
+45 - 54,R&D,Life Sciences,179,Male,Manufacturing Director,Single,51,Master's Degree,1
+35 - 44,Sales,Life Sciences,182,Female,Sales Executive,Married,39,Master's Degree,1
+25 - 34,Sales,Life Sciences,183,Male,Sales Executive,Married,25,Bachelor's Degree,1
+25 - 34,HR,Human Resources,184,Male,Human Resources,Married,30,Bachelor's Degree,1
+25 - 34,R&D,Medical,190,Female,Laboratory Technician,Single,32,Bachelor's Degree,1
+45 - 54,R&D,Medical,192,Male,Research Scientist,Single,45,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,193,Female,Research Scientist,Single,38,Doctoral Degree,1
+25 - 34,R&D,Life Sciences,194,Female,Research Scientist,Single,30,Bachelor's Degree,1
+25 - 34,Sales,Medical,195,Male,Sales Executive,Divorced,32,Associates Degree,1
+25 - 34,R&D,Technical Degree,197,Female,Research Scientist,Divorced,30,Bachelor's Degree,1
+25 - 34,R&D,Medical,198,Male,Laboratory Technician,Single,30,High School,1
+35 - 44,R&D,Life Sciences,199,Male,Manager,Divorced,41,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,200,Male,Laboratory Technician,Married,41,Master's Degree,1
+Under 25,R&D,Medical,201,Female,Laboratory Technician,Single,19,High School,1
+35 - 44,R&D,Medical,202,Female,Research Scientist,Divorced,40,Bachelor's Degree,1
+35 - 44,Sales,Marketing,204,Male,Sales Executive,Married,35,Doctoral Degree,1
+45 - 54,Sales,Marketing,205,Male,Sales Representative,Married,53,Associates Degree,1
+45 - 54,R&D,Life Sciences,206,Male,Laboratory Technician,Divorced,45,Bachelor's Degree,1
+25 - 34,Sales,Marketing,207,Female,Sales Executive,Single,32,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,208,Male,Manufacturing Director,Married,29,High School,1
+45 - 54,R&D,Medical,211,Male,Manufacturing Director,Married,51,Master's Degree,1
+Over 55,R&D,Medical,214,Female,Research Scientist,Married,58,Bachelor's Degree,1
+35 - 44,Sales,Marketing,215,Male,Sales Executive,Married,40,Master's Degree,1
+25 - 34,Sales,Marketing,216,Female,Sales Representative,Married,34,Master's Degree,1
+Under 25,R&D,Medical,217,Male,Research Scientist,Married,22,High School,1
+25 - 34,R&D,Medical,218,Male,Research Scientist,Divorced,27,Bachelor's Degree,1
+25 - 34,R&D,Medical,221,Male,Research Scientist,Married,28,Bachelor's Degree,1
+Over 55,R&D,Life Sciences,223,Male,Healthcare Representative,Divorced,57,Associates Degree,1
+25 - 34,R&D,Medical,224,Male,Research Scientist,Divorced,27,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,226,Female,Manager,Single,50,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,227,Male,Research Scientist,Divorced,41,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,228,Female,Sales Executive,Married,30,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,230,Female,Sales Executive,Single,38,Master's Degree,1
+25 - 34,R&D,Life Sciences,231,Male,Research Scientist,Single,32,Doctoral Degree,1
+25 - 34,R&D,Technical Degree,233,Male,Research Scientist,Married,27,Bachelor's Degree,1
+Under 25,Sales,Technical Degree,235,Female,Sales Representative,Single,19,High School,1
+35 - 44,R&D,Medical,238,Male,Laboratory Technician,Single,36,Associates Degree,1
+25 - 34,R&D,Medical,239,Male,Laboratory Technician,Divorced,30,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,240,Female,Sales Executive,Divorced,45,Associates Degree,1
+Over 55,R&D,Life Sciences,241,Female,Research Scientist,Divorced,56,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,242,Male,Research Scientist,Single,33,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,243,Male,Laboratory Technician,Single,19,Bachelor's Degree,1
+45 - 54,Sales,Marketing,244,Female,Sales Executive,Divorced,46,Associates Degree,1
+35 - 44,R&D,Life Sciences,245,Female,Laboratory Technician,Single,38,Associates Degree,1
+25 - 34,R&D,Medical,246,Female,Research Scientist,Married,31,High School,1
+25 - 34,R&D,Medical,247,Female,Research Scientist,Single,34,Associates Degree,1
+35 - 44,Sales,Marketing,248,Female,Sales Representative,Single,41,Associates Degree,1
+45 - 54,R&D,Medical,249,Male,Laboratory Technician,Married,50,Bachelor's Degree,1
+45 - 54,R&D,Medical,250,Female,Manufacturing Director,Divorced,53,Associates Degree,1
+25 - 34,R&D,Medical,252,Female,Research Scientist,Married,33,Bachelor's Degree,1
+35 - 44,R&D,Medical,253,Female,Manager,Married,40,High School,1
+Over 55,R&D,Medical,254,Male,Research Director,Single,55,Master's Degree,1
+25 - 34,R&D,Life Sciences,256,Male,Manufacturing Director,Married,34,High School,1
+45 - 54,R&D,Medical,258,Female,Healthcare Representative,Single,51,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,259,Male,Manager,Married,52,Master's Degree,1
+25 - 34,R&D,Medical,260,Female,Research Scientist,Single,27,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,261,Male,Manufacturing Director,Married,35,Associates Degree,1
+35 - 44,R&D,Medical,262,Male,Research Scientist,Divorced,43,Bachelor's Degree,1
+45 - 54,R&D,Medical,264,Male,Manager,Married,45,Associates Degree,1
+35 - 44,R&D,Life Sciences,267,Male,Research Scientist,Married,37,Bachelor's Degree,1
+35 - 44,R&D,Medical,269,Female,Laboratory Technician,Single,35,Bachelor's Degree,1
+35 - 44,R&D,Medical,270,Female,Manufacturing Director,Divorced,42,Associates Degree,1
+35 - 44,R&D,Life Sciences,271,Male,Manufacturing Director,Married,38,Master's Degree,1
+35 - 44,R&D,Technical Degree,273,Male,Manufacturing Director,Married,38,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,274,Male,Manufacturing Director,Married,27,High School,1
+45 - 54,R&D,Life Sciences,275,Male,Manufacturing Director,Divorced,49,Master's Degree,1
+25 - 34,R&D,Medical,277,Male,Research Scientist,Divorced,34,Master's Degree,1
+35 - 44,R&D,Medical,281,Male,Laboratory Technician,Married,40,Associates Degree,1
+35 - 44,R&D,Medical,282,Male,Healthcare Representative,Married,38,High School,1
+25 - 34,Sales,Marketing,283,Female,Sales Executive,Married,29,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,284,Male,Research Scientist,Divorced,22,Bachelor's Degree,1
+35 - 44,R&D,Medical,286,Female,Laboratory Technician,Single,36,High School,1
+35 - 44,R&D,Life Sciences,287,Male,Healthcare Representative,Married,40,Doctoral Degree,1
+45 - 54,R&D,Medical,288,Male,Healthcare Representative,Divorced,46,Master's Degree,1
+25 - 34,Sales,Medical,291,Male,Sales Executive,Married,32,Master's Degree,1
+25 - 34,R&D,Life Sciences,292,Male,Manufacturing Director,Single,30,High School,1
+25 - 34,Sales,Life Sciences,293,Female,Sales Executive,Single,27,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,296,Male,Research Director,Married,51,Master's Degree,1
+25 - 34,R&D,Technical Degree,297,Female,Research Scientist,Single,30,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,298,Female,Manager,Single,41,Bachelor's Degree,1
+25 - 34,Sales,Marketing,299,Female,Sales Executive,Single,30,Master's Degree,1
+25 - 34,R&D,Technical Degree,300,Male,Research Scientist,Single,29,Bachelor's Degree,1
+45 - 54,Sales,Medical,302,Female,Sales Executive,Single,45,Bachelor's Degree,1
+45 - 54,Sales,Marketing,303,Female,Sales Executive,Married,54,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,304,Male,Laboratory Technician,Single,36,Associates Degree,1
+25 - 34,R&D,Medical,305,Female,Research Scientist,Married,33,Master's Degree,1
+35 - 44,R&D,Other,306,Male,Research Director,Divorced,37,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,307,Male,Sales Executive,Divorced,38,Bachelor's Degree,1
+25 - 34,R&D,Medical,308,Male,Manufacturing Director,Married,31,Master's Degree,1
+Over 55,R&D,Life Sciences,309,Male,Research Scientist,Married,59,Bachelor's Degree,1
+35 - 44,Sales,Marketing,311,Male,Sales Representative,Divorced,37,Master's Degree,1
+25 - 34,Sales,Medical,312,Female,Sales Executive,Married,29,High School,1
+35 - 44,Sales,Marketing,314,Female,Sales Executive,Single,35,Bachelor's Degree,1
+25 - 34,R&D,Medical,315,Male,Research Scientist,Single,29,High School,1
+45 - 54,R&D,Life Sciences,316,Female,Laboratory Technician,Single,52,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,319,Male,Manager,Married,42,Associates Degree,1
+Over 55,HR,Medical,321,Male,Human Resources,Married,59,Associates Degree,1
+45 - 54,Sales,Medical,323,Female,Manager,Divorced,50,Master's Degree,1
+25 - 34,R&D,Medical,325,Male,Laboratory Technician,Married,33,Bachelor's Degree,1
+35 - 44,Sales,Marketing,327,Female,Manager,Married,43,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,328,Female,Laboratory Technician,Married,33,Associates Degree,1
+45 - 54,Sales,Life Sciences,329,Male,Manager,Single,52,Master's Degree,1
+25 - 34,Sales,Life Sciences,330,Female,Sales Representative,Married,32,Associates Degree,1
+25 - 34,R&D,Life Sciences,331,Male,Laboratory Technician,Single,32,Bachelor's Degree,1
+35 - 44,R&D,Medical,332,Female,Laboratory Technician,Divorced,39,Master's Degree,1
+25 - 34,Sales,Marketing,333,Male,Sales Executive,Married,32,Master's Degree,1
+35 - 44,R&D,Life Sciences,334,Male,Research Scientist,Divorced,41,Associates Degree,1
+35 - 44,R&D,Technical Degree,335,Male,Research Scientist,Divorced,40,Associates Degree,1
+45 - 54,R&D,Other,336,Male,Manager,Married,45,Bachelor's Degree,1
+25 - 34,R&D,Medical,337,Male,Research Director,Divorced,31,Master's Degree,1
+25 - 34,R&D,Life Sciences,338,Female,Research Scientist,Married,33,Master's Degree,1
+25 - 34,R&D,Life Sciences,339,Male,Manufacturing Director,Married,34,Master's Degree,1
+35 - 44,R&D,Medical,340,Female,Research Scientist,Married,37,Associates Degree,1
+45 - 54,R&D,Life Sciences,341,Male,Manufacturing Director,Married,45,Master's Degree,1
+35 - 44,R&D,Medical,342,Male,Manufacturing Director,Divorced,37,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,343,Female,Healthcare Representative,Single,39,Master's Degree,1
+25 - 34,R&D,Life Sciences,346,Male,Research Scientist,Single,29,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,347,Female,Research Scientist,Single,42,Associates Degree,1
+25 - 34,Sales,Marketing,349,Male,Sales Executive,Divorced,29,Associates Degree,1
+25 - 34,R&D,Life Sciences,350,Female,Manufacturing Director,Married,25,Bachelor's Degree,1
+35 - 44,R&D,Medical,351,Female,Laboratory Technician,Divorced,42,Bachelor's Degree,1
+35 - 44,R&D,Medical,352,Male,Research Director,Divorced,40,Associates Degree,1
+45 - 54,R&D,Life Sciences,353,Male,Research Scientist,Married,51,Bachelor's Degree,1
+25 - 34,R&D,Medical,355,Male,Laboratory Technician,Single,31,Associates Degree,1
+25 - 34,R&D,Life Sciences,359,Male,Laboratory Technician,Married,32,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,361,Male,Sales Executive,Married,38,Associates Degree,1
+25 - 34,R&D,Technical Degree,362,Male,Laboratory Technician,Single,32,High School,1
+45 - 54,Sales,Technical Degree,363,Female,Manager,Married,46,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,364,Male,Laboratory Technician,Single,28,Master's Degree,1
+25 - 34,Sales,Medical,366,Male,Sales Executive,Married,29,Bachelor's Degree,1
+25 - 34,R&D,Medical,367,Male,Healthcare Representative,Married,31,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,369,Male,Healthcare Representative,Divorced,25,Associates Degree,1
+45 - 54,R&D,Medical,372,Male,Healthcare Representative,Married,45,Associates Degree,1
+35 - 44,R&D,Life Sciences,373,Male,Laboratory Technician,Married,36,Bachelor's Degree,1
+Over 55,R&D,Medical,374,Male,Manager,Single,55,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,376,Male,Manager,Married,47,Master's Degree,1
+25 - 34,R&D,Medical,377,Male,Research Scientist,Married,28,Bachelor's Degree,1
+35 - 44,Sales,Medical,378,Male,Sales Executive,Married,37,Master's Degree,1
+Under 25,R&D,Medical,379,Male,Research Scientist,Single,21,Associates Degree,1
+35 - 44,R&D,Medical,380,Female,Research Director,Divorced,37,Master's Degree,1
+35 - 44,R&D,Life Sciences,381,Female,Manager,Divorced,35,Bachelor's Degree,1
+35 - 44,Sales,Medical,382,Female,Sales Executive,Divorced,38,Associates Degree,1
+25 - 34,R&D,Life Sciences,384,Female,Manufacturing Director,Divorced,26,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,385,Male,Research Director,Divorced,50,High School,1
+45 - 54,R&D,Medical,386,Male,Research Director,Married,53,Master's Degree,1
+35 - 44,Sales,Life Sciences,387,Male,Sales Executive,Married,42,High School,1
+25 - 34,Sales,Life Sciences,388,Male,Sales Executive,Single,29,Associates Degree,1
+Over 55,R&D,Technical Degree,389,Male,Laboratory Technician,Married,55,Associates Degree,1
+25 - 34,R&D,Medical,390,Male,Healthcare Representative,Married,26,Associates Degree,1
+35 - 44,R&D,Life Sciences,391,Female,Research Scientist,Single,37,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,392,Male,Laboratory Technician,Divorced,44,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,393,Male,Healthcare Representative,Divorced,38,Master's Degree,1
+25 - 34,R&D,Medical,394,Male,Laboratory Technician,Divorced,26,Master's Degree,1
+25 - 34,R&D,Life Sciences,395,Female,Research Scientist,Single,28,Associates Degree,1
+45 - 54,R&D,Life Sciences,396,Female,Research Director,Single,49,Master's Degree,1
+35 - 44,R&D,Technical Degree,397,Male,Research Scientist,Single,36,Bachelor's Degree,1
+25 - 34,Sales,Marketing,399,Female,Sales Representative,Divorced,31,Bachelor's Degree,1
+25 - 34,Sales,Marketing,401,Male,Sales Executive,Single,26,Master's Degree,1
+35 - 44,R&D,Medical,403,Male,Research Scientist,Married,37,Bachelor's Degree,1
+35 - 44,Sales,Marketing,404,Female,Sales Executive,Married,42,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,405,Male,Laboratory Technician,Single,18,Bachelor's Degree,1
+35 - 44,Sales,Marketing,406,Male,Sales Executive,Married,35,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,407,Male,Laboratory Technician,Married,36,Master's Degree,1
+45 - 54,R&D,Medical,408,Male,Manufacturing Director,Divorced,51,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,410,Male,Manager,Single,41,Master's Degree,1
+Under 25,Sales,Medical,411,Female,Sales Representative,Single,18,Bachelor's Degree,1
+25 - 34,R&D,Medical,412,Male,Healthcare Representative,Single,28,Associates Degree,1
+25 - 34,Sales,Technical Degree,416,Male,Sales Executive,Married,31,Bachelor's Degree,1
+35 - 44,R&D,Medical,417,Male,Healthcare Representative,Divorced,39,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,419,Female,Laboratory Technician,Married,36,Master's Degree,1
+25 - 34,Sales,Life Sciences,420,Male,Sales Executive,Married,32,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,421,Female,Research Director,Married,38,Associates Degree,1
+Over 55,R&D,Life Sciences,422,Male,Healthcare Representative,Divorced,58,Master's Degree,1
+25 - 34,R&D,Technical Degree,423,Male,Research Scientist,Married,31,Master's Degree,1
+25 - 34,HR,Human Resources,424,Male,Human Resources,Married,31,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,425,Male,Laboratory Technician,Divorced,45,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,426,Male,Research Scientist,Divorced,31,Master's Degree,1
+25 - 34,R&D,Life Sciences,428,Female,Manager,Married,33,Master's Degree,1
+35 - 44,R&D,Medical,429,Male,Manager,Married,39,High School,1
+35 - 44,R&D,Life Sciences,430,Female,Laboratory Technician,Single,43,Master's Degree,1
+45 - 54,R&D,Technical Degree,431,Female,Healthcare Representative,Single,49,Associates Degree,1
+45 - 54,R&D,Medical,433,Male,Research Scientist,Married,52,Master's Degree,1
+25 - 34,R&D,Life Sciences,434,Female,Research Scientist,Single,27,Bachelor's Degree,1
+25 - 34,Sales,Technical Degree,436,Female,Sales Executive,Married,32,Associates Degree,1
+25 - 34,Sales,Life Sciences,437,Male,Sales Executive,Single,27,Bachelor's Degree,1
+25 - 34,Sales,Marketing,438,Male,Sales Executive,Divorced,31,Bachelor's Degree,1
+25 - 34,R&D,Medical,439,Female,Research Scientist,Single,32,Master's Degree,1
+25 - 34,R&D,Medical,440,Male,Research Scientist,Married,28,Master's Degree,1
+25 - 34,R&D,Medical,441,Female,Research Scientist,Married,30,Associates Degree,1
+25 - 34,R&D,Life Sciences,442,Female,Manufacturing Director,Married,31,Associates Degree,1
+35 - 44,R&D,Medical,444,Male,Manager,Married,39,Associates Degree,1
+35 - 44,Sales,Medical,445,Female,Sales Executive,Married,39,Associates Degree,1
+25 - 34,Sales,Marketing,446,Male,Sales Executive,Single,33,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,447,Male,Research Director,Married,47,Doctoral Degree,1
+35 - 44,R&D,Life Sciences,448,Female,Laboratory Technician,Divorced,43,Master's Degree,1
+25 - 34,Sales,Marketing,449,Male,Sales Executive,Married,27,High School,1
+45 - 54,R&D,Life Sciences,450,Female,Research Scientist,Single,54,Master's Degree,1
+35 - 44,R&D,Life Sciences,451,Female,Healthcare Representative,Married,43,Bachelor's Degree,1
+45 - 54,R&D,Other,452,Male,Research Scientist,Married,45,Master's Degree,1
+35 - 44,Sales,Medical,453,Male,Sales Executive,Married,40,Associates Degree,1
+25 - 34,R&D,Other,454,Male,Laboratory Technician,Married,29,Master's Degree,1
+25 - 34,R&D,Other,455,Male,Laboratory Technician,Single,29,Doctoral Degree,1
+25 - 34,Sales,Marketing,456,Female,Sales Executive,Divorced,30,Bachelor's Degree,1
+25 - 34,Sales,Marketing,458,Female,Sales Executive,Married,27,Master's Degree,1
+35 - 44,R&D,Medical,460,Male,Manufacturing Director,Divorced,37,Associates Degree,1
+35 - 44,R&D,Life Sciences,461,Male,Research Director,Divorced,38,Associates Degree,1
+25 - 34,R&D,Medical,462,Female,Manufacturing Director,Single,31,Master's Degree,1
+25 - 34,Sales,Marketing,463,Female,Sales Executive,Divorced,29,High School,1
+35 - 44,R&D,Technical Degree,464,Male,Manufacturing Director,Single,35,Master's Degree,1
+Under 25,R&D,Life Sciences,465,Male,Research Scientist,Divorced,23,High School,1
+35 - 44,R&D,Medical,466,Male,Manufacturing Director,Single,41,Bachelor's Degree,1
+45 - 54,Sales,Medical,467,Male,Sales Representative,Single,47,High School,1
+35 - 44,R&D,Life Sciences,468,Female,Research Director,Single,42,Doctoral Degree,1
+25 - 34,Sales,Life Sciences,469,Male,Sales Executive,Married,29,Bachelor's Degree,1
+35 - 44,HR,Technical Degree,470,Male,Human Resources,Divorced,42,High School,1
+25 - 34,R&D,Medical,471,Female,Laboratory Technician,Married,32,Bachelor's Degree,1
+45 - 54,Sales,Medical,473,Female,Manager,Married,48,High School,1
+35 - 44,R&D,Medical,474,Male,Research Scientist,Divorced,37,Bachelor's Degree,1
+25 - 34,Sales,Technical Degree,475,Female,Sales Executive,Married,30,Associates Degree,1
+25 - 34,Sales,Life Sciences,476,Male,Sales Executive,Married,26,Bachelor's Degree,1
+35 - 44,R&D,Other,477,Male,Healthcare Representative,Single,42,Master's Degree,1
+Under 25,Sales,Technical Degree,478,Female,Sales Representative,Single,21,High School,1
+35 - 44,Sales,Medical,479,Female,Sales Executive,Single,36,Doctoral Degree,1
+35 - 44,Sales,Medical,481,Male,Sales Executive,Married,36,Master's Degree,1
+Over 55,R&D,Medical,482,Male,Healthcare Representative,Married,57,Master's Degree,1
+35 - 44,R&D,Life Sciences,483,Female,Laboratory Technician,Married,40,Master's Degree,1
+Under 25,Sales,Medical,484,Male,Sales Representative,Single,21,Associates Degree,1
+25 - 34,Sales,Marketing,485,Female,Sales Representative,Single,33,Bachelor's Degree,1
+35 - 44,R&D,Medical,486,Female,Laboratory Technician,Married,37,Bachelor's Degree,1
+45 - 54,R&D,Medical,487,Female,Manufacturing Director,Married,46,Master's Degree,1
+35 - 44,Sales,Marketing,488,Male,Sales Executive,Single,41,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,491,Male,Healthcare Representative,Single,50,Bachelor's Degree,1
+35 - 44,Sales,Marketing,492,Male,Sales Executive,Married,40,Associates Degree,1
+25 - 34,R&D,Life Sciences,493,Male,Research Scientist,Single,31,Master's Degree,1
+Under 25,Sales,Life Sciences,494,Female,Sales Representative,Single,21,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,495,Male,Research Scientist,Single,29,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,496,Male,Healthcare Representative,Single,35,Master's Degree,1
+25 - 34,R&D,Medical,497,Male,Laboratory Technician,Divorced,27,Associates Degree,1
+25 - 34,Sales,Life Sciences,498,Male,Sales Executive,Single,28,Master's Degree,1
+45 - 54,R&D,Other,499,Male,Healthcare Representative,Single,49,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,500,Female,Sales Executive,Married,51,Associates Degree,1
+35 - 44,R&D,Life Sciences,501,Female,Research Scientist,Married,36,Bachelor's Degree,1
+25 - 34,Sales,Marketing,502,Male,Sales Executive,Single,34,Bachelor's Degree,1
+Over 55,R&D,Life Sciences,505,Female,Manager,Single,55,Bachelor's Degree,1
+Under 25,Sales,Marketing,507,Female,Sales Executive,Divorced,24,Master's Degree,1
+25 - 34,Sales,Technical Degree,508,Male,Sales Representative,Married,30,High School,1
+25 - 34,R&D,Technical Degree,510,Male,Research Scientist,Single,26,High School,1
+Under 25,R&D,Medical,511,Female,Research Scientist,Married,22,Bachelor's Degree,1
+35 - 44,Sales,Medical,513,Male,Sales Executive,Married,36,Associates Degree,1
+25 - 34,R&D,Technical Degree,514,Male,Research Scientist,Single,30,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,515,Female,Laboratory Technician,Divorced,37,Bachelor's Degree,1
+35 - 44,Sales,Marketing,516,Female,Sales Executive,Divorced,40,Associates Degree,1
+35 - 44,R&D,Life Sciences,517,Female,Laboratory Technician,Divorced,42,Master's Degree,1
+35 - 44,R&D,Life Sciences,518,Male,Manufacturing Director,Single,37,Master's Degree,1
+35 - 44,R&D,Life Sciences,520,Male,Research Director,Divorced,43,Bachelor's Degree,1
+35 - 44,R&D,Medical,521,Female,Laboratory Technician,Married,40,Bachelor's Degree,1
+45 - 54,R&D,Medical,522,Male,Research Director,Married,54,Associates Degree,1
+25 - 34,Sales,Marketing,523,Female,Sales Executive,Married,34,Master's Degree,1
+25 - 34,R&D,Medical,524,Female,Manufacturing Director,Married,31,Associates Degree,1
+35 - 44,R&D,Medical,525,Male,Laboratory Technician,Married,43,Bachelor's Degree,1
+35 - 44,R&D,Other,526,Female,Healthcare Representative,Divorced,43,Master's Degree,1
+25 - 34,Sales,Life Sciences,527,Female,Sales Executive,Single,25,Associates Degree,1
+35 - 44,R&D,Medical,529,Female,Research Scientist,Married,37,Doctoral Degree,1
+25 - 34,R&D,Life Sciences,530,Male,Laboratory Technician,Married,31,Associates Degree,1
+35 - 44,R&D,Life Sciences,531,Male,Manager,Divorced,39,High School,1
+Over 55,Sales,Life Sciences,532,Female,Sales Executive,Married,56,Bachelor's Degree,1
+25 - 34,Sales,Technical Degree,533,Female,Sales Executive,Single,30,Bachelor's Degree,1
+35 - 44,Sales,Marketing,534,Male,Sales Executive,Married,41,Bachelor's Degree,1
+25 - 34,R&D,Medical,536,Male,Laboratory Technician,Divorced,28,Associates Degree,1
+25 - 34,R&D,Medical,538,Male,Laboratory Technician,Married,25,Bachelor's Degree,1
+45 - 54,R&D,Medical,543,Male,Manufacturing Director,Married,52,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,544,Male,Research Scientist,Married,45,Associates Degree,1
+45 - 54,R&D,Life Sciences,546,Female,Manager,Married,52,Associates Degree,1
+35 - 44,R&D,Life Sciences,547,Female,Research Scientist,Divorced,42,Associates Degree,1
+25 - 34,R&D,Life Sciences,548,Female,Manufacturing Director,Single,30,Bachelor's Degree,1
+Over 55,R&D,Life Sciences,549,Female,Manager,Married,60,Bachelor's Degree,1
+45 - 54,R&D,Medical,550,Female,Manufacturing Director,Divorced,46,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,551,Female,Healthcare Representative,Married,42,Master's Degree,1
+Under 25,Sales,Technical Degree,554,Female,Sales Representative,Single,24,High School,1
+25 - 34,Sales,Marketing,555,Female,Sales Representative,Divorced,34,Associates Degree,1
+35 - 44,R&D,Life Sciences,556,Male,Laboratory Technician,Married,38,Associates Degree,1
+35 - 44,Sales,Life Sciences,558,Female,Manager,Married,40,Master's Degree,1
+25 - 34,R&D,Life Sciences,560,Female,Research Scientist,Divorced,26,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,562,Male,Laboratory Technician,Married,30,Bachelor's Degree,1
+25 - 34,R&D,Medical,564,Male,Research Director,Married,29,Master's Degree,1
+25 - 34,R&D,Technical Degree,565,Female,Research Scientist,Married,29,Doctoral Degree,1
+Under 25,HR,Technical Degree,566,Male,Human Resources,Single,19,Associates Degree,1
+25 - 34,Sales,Other,567,Female,Sales Executive,Married,30,Master's Degree,1
+Over 55,Sales,Marketing,568,Male,Manager,Divorced,57,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,569,Male,Manager,Married,50,Master's Degree,1
+25 - 34,R&D,Medical,571,Female,Laboratory Technician,Single,30,Bachelor's Degree,1
+Over 55,Sales,Marketing,573,Female,Sales Executive,Married,60,Bachelor's Degree,1
+45 - 54,R&D,Medical,574,Female,Manufacturing Director,Divorced,47,Associates Degree,1
+45 - 54,R&D,Life Sciences,575,Male,Research Director,Married,46,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,577,Male,Laboratory Technician,Single,35,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,578,Female,Laboratory Technician,Single,54,Master's Degree,1
+25 - 34,R&D,Life Sciences,579,Male,Research Scientist,Divorced,34,Master's Degree,1
+45 - 54,Sales,Marketing,580,Female,Sales Executive,Married,46,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,581,Male,Manufacturing Director,Divorced,31,High School,1
+25 - 34,R&D,Medical,582,Male,Manager,Married,33,High School,1
+25 - 34,R&D,Medical,584,Male,Laboratory Technician,Divorced,33,High School,1
+25 - 34,Sales,Marketing,585,Male,Sales Representative,Single,30,High School,1
+35 - 44,R&D,Life Sciences,586,Male,Healthcare Representative,Married,35,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,587,Male,Healthcare Representative,Married,31,Bachelor's Degree,1
+25 - 34,HR,Human Resources,590,Female,Human Resources,Divorced,34,Bachelor's Degree,1
+35 - 44,R&D,Other,591,Male,Laboratory Technician,Married,42,Associates Degree,1
+35 - 44,Sales,Medical,592,Male,Sales Executive,Single,36,Master's Degree,1
+Under 25,R&D,Technical Degree,593,Male,Laboratory Technician,Single,22,High School,1
+45 - 54,Sales,Marketing,595,Female,Sales Executive,Married,48,Doctoral Degree,1
+Over 55,Sales,Life Sciences,597,Female,Manager,Single,55,Doctoral Degree,1
+35 - 44,Sales,Life Sciences,599,Male,Sales Executive,Single,41,Associates Degree,1
+35 - 44,Sales,Marketing,600,Male,Sales Executive,Married,35,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,601,Female,Manufacturing Director,Single,40,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,602,Female,Laboratory Technician,Married,39,High School,1
+25 - 34,Sales,Life Sciences,604,Male,Sales Executive,Single,31,High School,1
+35 - 44,R&D,Medical,605,Male,Manufacturing Director,Married,42,Bachelor's Degree,1
+45 - 54,Sales,Other,606,Male,Sales Executive,Married,45,Bachelor's Degree,1
+25 - 34,HR,Life Sciences,608,Female,Human Resources,Divorced,26,Master's Degree,1
+25 - 34,R&D,Technical Degree,611,Male,Manufacturing Director,Divorced,29,Bachelor's Degree,1
+25 - 34,R&D,Medical,612,Female,Research Director,Divorced,33,Doctoral Degree,1
+25 - 34,Sales,Life Sciences,613,Male,Manager,Divorced,31,Bachelor's Degree,1
+Under 25,Sales,Marketing,614,Male,Sales Representative,Single,18,Bachelor's Degree,1
+35 - 44,Sales,Other,615,Male,Sales Executive,Divorced,40,Bachelor's Degree,1
+35 - 44,R&D,Other,616,Female,Healthcare Representative,Single,41,Master's Degree,1
+25 - 34,Sales,Medical,618,Male,Sales Executive,Divorced,26,Associates Degree,1
+35 - 44,Sales,Medical,620,Female,Sales Executive,Single,35,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,621,Male,Sales Executive,Single,34,Master's Degree,1
+25 - 34,R&D,Technical Degree,622,Male,Laboratory Technician,Single,26,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,623,Female,Manufacturing Director,Single,37,Bachelor's Degree,1
+45 - 54,R&D,Medical,624,Female,Healthcare Representative,Married,46,High School,1
+35 - 44,Sales,Life Sciences,625,Female,Manager,Married,41,Doctoral Degree,1
+35 - 44,Sales,Medical,626,Male,Sales Executive,Divorced,37,Master's Degree,1
+45 - 54,R&D,Technical Degree,630,Male,Research Scientist,Divorced,52,Associates Degree,1
+25 - 34,Sales,Other,631,Male,Sales Executive,Married,32,Master's Degree,1
+Under 25,Sales,Medical,632,Male,Sales Representative,Married,24,Bachelor's Degree,1
+35 - 44,R&D,Medical,634,Female,Healthcare Representative,Married,38,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,635,Female,Manufacturing Director,Married,37,Master's Degree,1
+45 - 54,R&D,Life Sciences,638,Male,Research Director,Divorced,49,Master's Degree,1
+Under 25,R&D,Medical,639,Male,Research Scientist,Married,24,Bachelor's Degree,1
+25 - 34,Sales,Marketing,641,Male,Sales Executive,Married,26,Associates Degree,1
+Under 25,R&D,Other,643,Male,Laboratory Technician,Married,24,Associates Degree,1
+45 - 54,HR,Medical,644,Male,Manager,Married,50,Bachelor's Degree,1
+25 - 34,Sales,Medical,645,Male,Sales Representative,Married,25,High School,1
+Under 25,R&D,Life Sciences,647,Female,Laboratory Technician,Married,24,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,648,Male,Sales Representative,Married,30,Master's Degree,1
+25 - 34,R&D,Life Sciences,649,Male,Research Scientist,Married,34,Associates Degree,1
+25 - 34,Sales,Medical,650,Male,Sales Executive,Divorced,31,Master's Degree,1
+35 - 44,R&D,Other,652,Male,Laboratory Technician,Single,35,Associates Degree,1
+25 - 34,Sales,Medical,653,Male,Sales Executive,Divorced,31,Master's Degree,1
+25 - 34,R&D,Medical,655,Female,Research Scientist,Divorced,27,Master's Degree,1
+35 - 44,Sales,Marketing,656,Male,Sales Executive,Married,37,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,657,Female,Research Scientist,Single,20,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,659,Female,Healthcare Representative,Married,42,Master's Degree,1
+35 - 44,R&D,Other,661,Male,Research Director,Divorced,43,Master's Degree,1
+35 - 44,R&D,Life Sciences,662,Female,Research Scientist,Single,38,High School,1
+35 - 44,R&D,Medical,663,Male,Laboratory Technician,Divorced,43,Doctoral Degree,1
+45 - 54,R&D,Life Sciences,664,Female,Manager,Married,48,Master's Degree,1
+35 - 44,HR,Life Sciences,665,Female,Human Resources,Single,44,Master's Degree,1
+25 - 34,Sales,Technical Degree,666,Female,Sales Representative,Divorced,34,Bachelor's Degree,1
+25 - 34,Sales,Marketing,667,Male,Sales Representative,Divorced,27,High School,1
+Under 25,Sales,Technical Degree,669,Male,Sales Representative,Single,21,High School,1
+35 - 44,R&D,Other,671,Male,Manager,Married,44,Master's Degree,1
+Under 25,R&D,Medical,675,Male,Research Scientist,Married,22,High School,1
+25 - 34,Sales,Marketing,677,Male,Sales Executive,Divorced,33,Master's Degree,1
+25 - 34,R&D,Life Sciences,679,Female,Research Scientist,Married,32,Master's Degree,1
+25 - 34,R&D,Medical,680,Female,Research Scientist,Divorced,30,Bachelor's Degree,1
+45 - 54,Sales,Medical,682,Female,Sales Executive,Single,53,High School,1
+25 - 34,R&D,Life Sciences,683,Male,Research Scientist,Married,34,Doctoral Degree,1
+45 - 54,Sales,Life Sciences,684,Female,Sales Executive,Married,45,Master's Degree,1
+25 - 34,R&D,Life Sciences,686,Female,Laboratory Technician,Married,26,Bachelor's Degree,1
+35 - 44,R&D,Other,689,Male,Manufacturing Director,Married,37,Bachelor's Degree,1
+25 - 34,Sales,Medical,690,Female,Sales Executive,Married,29,Associates Degree,1
+35 - 44,R&D,Life Sciences,691,Male,Research Scientist,Single,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,692,Male,Healthcare Representative,Divorced,33,Bachelor's Degree,1
+45 - 54,HR,Medical,698,Male,Human Resources,Married,54,Master's Degree,1
+35 - 44,R&D,Medical,699,Male,Manufacturing Director,Divorced,36,Associates Degree,1
+25 - 34,R&D,Medical,700,Male,Research Scientist,Single,27,Master's Degree,1
+Under 25,R&D,Medical,701,Male,Research Scientist,Single,20,High School,1
+25 - 34,R&D,Life Sciences,702,Male,Research Scientist,Single,33,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,704,Male,Laboratory Technician,Married,35,Bachelor's Degree,1
+Under 25,R&D,Medical,705,Male,Research Scientist,Married,23,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,707,Male,Sales Executive,Married,25,Bachelor's Degree,1
+35 - 44,Sales,Marketing,709,Female,Sales Executive,Single,38,Master's Degree,1
+25 - 34,R&D,Life Sciences,710,Male,Research Scientist,Divorced,29,Master's Degree,1
+45 - 54,Sales,Marketing,712,Male,Sales Executive,Married,48,High School,1
+25 - 34,Sales,Medical,714,Female,Sales Executive,Divorced,27,High School,1
+35 - 44,R&D,Life Sciences,715,Male,Research Scientist,Single,37,Associates Degree,1
+45 - 54,R&D,Medical,716,Male,Laboratory Technician,Married,50,High School,1
+25 - 34,R&D,Medical,717,Female,Healthcare Representative,Single,34,Bachelor's Degree,1
+Under 25,Sales,Life Sciences,720,Female,Sales Executive,Single,24,Associates Degree,1
+35 - 44,R&D,Technical Degree,721,Female,Healthcare Representative,Single,39,Master's Degree,1
+25 - 34,Sales,Marketing,722,Male,Sales Executive,Single,32,Bachelor's Degree,1
+45 - 54,Sales,Technical Degree,723,Male,Sales Executive,Married,50,Associates Degree,1
+35 - 44,R&D,Life Sciences,724,Female,Healthcare Representative,Single,38,Master's Degree,1
+25 - 34,R&D,Life Sciences,725,Female,Manufacturing Director,Married,27,Associates Degree,1
+25 - 34,R&D,Life Sciences,727,Female,Research Director,Single,32,Associates Degree,1
+45 - 54,Sales,Marketing,728,Male,Sales Executive,Single,47,Master's Degree,1
+35 - 44,Sales,Life Sciences,729,Male,Sales Executive,Married,40,Master's Degree,1
+45 - 54,R&D,Life Sciences,730,Male,Research Director,Married,53,Bachelor's Degree,1
+35 - 44,HR,Human Resources,731,Male,Manager,Divorced,41,Master's Degree,1
+Over 55,Sales,Marketing,732,Male,Sales Executive,Single,60,Master's Degree,1
+25 - 34,R&D,Life Sciences,733,Male,Manufacturing Director,Divorced,27,Associates Degree,1
+35 - 44,HR,Human Resources,734,Male,Manager,Married,41,Bachelor's Degree,1
+45 - 54,Sales,Marketing,738,Male,Sales Representative,Married,50,Master's Degree,1
+25 - 34,R&D,Life Sciences,741,Female,Research Scientist,Single,28,Associates Degree,1
+35 - 44,R&D,Life Sciences,742,Female,Research Director,Married,36,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,743,Female,Manufacturing Director,Single,38,Bachelor's Degree,1
+35 - 44,R&D,Medical,744,Male,Laboratory Technician,Single,44,Bachelor's Degree,1
+45 - 54,Sales,Medical,746,Female,Sales Executive,Divorced,47,Bachelor's Degree,1
+25 - 34,Sales,Marketing,747,Male,Sales Executive,Divorced,30,Doctoral Degree,1
+25 - 34,Sales,Life Sciences,749,Male,Sales Representative,Single,29,Bachelor's Degree,1
+35 - 44,R&D,Medical,752,Male,Research Scientist,Divorced,42,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,754,Male,Sales Executive,Married,43,Bachelor's Degree,1
+25 - 34,R&D,Medical,757,Female,Healthcare Representative,Single,34,Associates Degree,1
+Under 25,R&D,Medical,758,Male,Laboratory Technician,Married,23,High School,1
+35 - 44,HR,Human Resources,760,Female,Human Resources,Married,39,Bachelor's Degree,1
+Over 55,R&D,Medical,762,Male,Healthcare Representative,Married,56,Bachelor's Degree,1
+35 - 44,R&D,Medical,763,Female,Research Scientist,Single,40,High School,1
+25 - 34,R&D,Medical,764,Female,Healthcare Representative,Single,27,Bachelor's Degree,1
+25 - 34,Sales,Marketing,766,Male,Sales Representative,Divorced,29,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,769,Male,Laboratory Technician,Single,53,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,771,Female,Healthcare Representative,Divorced,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,772,Male,Laboratory Technician,Married,32,Master's Degree,1
+35 - 44,R&D,Medical,773,Male,Research Scientist,Married,38,Doctoral Degree,1
+25 - 34,R&D,Life Sciences,775,Female,Manufacturing Director,Divorced,34,Doctoral Degree,1
+45 - 54,Sales,Marketing,776,Male,Manager,Married,52,Master's Degree,1
+25 - 34,R&D,Other,780,Male,Research Scientist,Single,33,Master's Degree,1
+25 - 34,Sales,Medical,781,Female,Sales Executive,Single,25,High School,1
+45 - 54,Sales,Technical Degree,783,Male,Sales Representative,Single,45,Associates Degree,1
+Under 25,R&D,Medical,784,Male,Research Scientist,Single,23,High School,1
+45 - 54,Sales,Life Sciences,785,Female,Sales Executive,Single,47,Associates Degree,1
+25 - 34,Sales,Other,786,Male,Sales Executive,Single,34,Bachelor's Degree,1
+Over 55,R&D,Medical,787,Male,Manager,Married,55,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,789,Male,Sales Executive,Single,36,Master's Degree,1
+45 - 54,R&D,Medical,791,Male,Research Scientist,Married,52,Master's Degree,1
+25 - 34,R&D,Life Sciences,792,Female,Laboratory Technician,Divorced,26,Associates Degree,1
+25 - 34,R&D,Medical,793,Female,Healthcare Representative,Married,29,Bachelor's Degree,1
+25 - 34,Sales,Technical Degree,796,Male,Sales Executive,Single,26,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,797,Female,Research Scientist,Single,34,Master's Degree,1
+45 - 54,R&D,Medical,799,Female,Manufacturing Director,Divorced,54,Master's Degree,1
+25 - 34,Sales,Marketing,800,Male,Sales Executive,Married,27,High School,1
+35 - 44,R&D,Life Sciences,802,Female,Research Scientist,Divorced,37,High School,1
+35 - 44,R&D,Life Sciences,803,Female,Manufacturing Director,Single,38,Master's Degree,1
+25 - 34,R&D,Medical,804,Female,Research Scientist,Single,34,Master's Degree,1
+35 - 44,Sales,Life Sciences,805,Female,Sales Representative,Married,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,806,Male,Laboratory Technician,Married,30,Bachelor's Degree,1
+35 - 44,R&D,Medical,807,Female,Healthcare Representative,Married,40,Associates Degree,1
+25 - 34,Sales,Life Sciences,808,Female,Sales Executive,Married,34,Associates Degree,1
+35 - 44,R&D,Life Sciences,809,Male,Manager,Divorced,42,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,811,Male,Laboratory Technician,Married,23,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,812,Male,Laboratory Technician,Divorced,24,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,813,Female,Laboratory Technician,Married,52,Master's Degree,1
+45 - 54,R&D,Medical,815,Male,Research Director,Married,50,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,816,Female,Laboratory Technician,Married,29,Associates Degree,1
+25 - 34,R&D,Medical,817,Male,Research Director,Married,33,Bachelor's Degree,1
+25 - 34,Sales,Marketing,819,Female,Sales Executive,Single,33,Bachelor's Degree,1
+45 - 54,R&D,Other,820,Female,Manager,Married,47,Associates Degree,1
+35 - 44,R&D,Other,823,Female,Manufacturing Director,Married,36,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,824,Male,Research Scientist,Married,29,Associates Degree,1
+Over 55,R&D,Life Sciences,825,Male,Research Director,Single,58,Master's Degree,1
+35 - 44,R&D,Life Sciences,826,Female,Research Scientist,Single,35,Master's Degree,1
+35 - 44,R&D,Life Sciences,827,Female,Manufacturing Director,Married,42,Associates Degree,1
+25 - 34,R&D,Medical,828,Male,Research Scientist,Single,28,Master's Degree,1
+35 - 44,HR,Human Resources,829,Male,Human Resources,Married,36,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,830,Female,Manufacturing Director,Married,32,Bachelor's Degree,1
+35 - 44,R&D,Medical,832,Male,Laboratory Technician,Single,40,Master's Degree,1
+25 - 34,R&D,Medical,833,Female,Manufacturing Director,Single,30,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,834,Female,Research Scientist,Single,45,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,836,Male,Manufacturing Director,Married,42,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,837,Male,Healthcare Representative,Divorced,38,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,838,Female,Research Scientist,Single,34,Master's Degree,1
+45 - 54,Sales,Marketing,840,Female,Sales Executive,Married,49,Bachelor's Degree,1
+Over 55,Sales,Medical,842,Male,Sales Executive,Single,55,High School,1
+35 - 44,R&D,Life Sciences,843,Male,Research Director,Married,43,Associates Degree,1
+25 - 34,R&D,Technical Degree,844,Male,Research Director,Divorced,27,High School,1
+35 - 44,R&D,Other,845,Male,Manufacturing Director,Single,35,Bachelor's Degree,1
+25 - 34,Sales,Marketing,846,Female,Sales Executive,Married,28,Master's Degree,1
+25 - 34,HR,Human Resources,847,Male,Human Resources,Married,34,Associates Degree,1
+25 - 34,R&D,Medical,848,Female,Research Scientist,Married,26,Associates Degree,1
+25 - 34,R&D,Medical,850,Male,Research Scientist,Married,27,Bachelor's Degree,1
+45 - 54,Sales,Marketing,851,Female,Manager,Married,51,Master's Degree,1
+35 - 44,R&D,Medical,852,Male,Healthcare Representative,Single,44,Bachelor's Degree,1
+25 - 34,R&D,Medical,854,Male,Research Scientist,Single,25,High School,1
+25 - 34,Sales,Medical,855,Male,Sales Executive,Divorced,33,Bachelor's Degree,1
+35 - 44,R&D,Medical,856,Female,Research Scientist,Single,35,High School,1
+35 - 44,Sales,Life Sciences,857,Male,Sales Executive,Married,36,Associates Degree,1
+25 - 34,Sales,Life Sciences,859,Male,Sales Executive,Divorced,32,Master's Degree,1
+25 - 34,R&D,Life Sciences,861,Male,Research Scientist,Divorced,30,Master's Degree,1
+45 - 54,Sales,Marketing,862,Female,Sales Executive,Married,53,Associates Degree,1
+45 - 54,Sales,Marketing,864,Male,Sales Executive,Divorced,45,Bachelor's Degree,1
+25 - 34,R&D,Medical,865,Female,Research Scientist,Married,32,Associates Degree,1
+45 - 54,R&D,Medical,867,Female,Manufacturing Director,Married,52,Master's Degree,1
+35 - 44,Sales,Marketing,868,Male,Sales Executive,Divorced,37,Master's Degree,1
+25 - 34,HR,Medical,869,Male,Human Resources,Divorced,28,Associates Degree,1
+Under 25,R&D,Life Sciences,872,Male,Manufacturing Director,Married,22,Associates Degree,1
+35 - 44,R&D,Life Sciences,874,Male,Laboratory Technician,Married,44,Master's Degree,1
+35 - 44,R&D,Medical,875,Male,Research Scientist,Single,42,High School,1
+35 - 44,HR,Life Sciences,878,Male,Human Resources,Married,36,Bachelor's Degree,1
+25 - 34,Sales,Other,879,Male,Sales Executive,Married,25,High School,1
+35 - 44,R&D,Life Sciences,880,Female,Manufacturing Director,Married,35,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,881,Female,Research Scientist,Divorced,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,882,Male,Laboratory Technician,Divorced,32,Bachelor's Degree,1
+25 - 34,Sales,Marketing,885,Male,Sales Executive,Married,25,High School,1
+45 - 54,R&D,Technical Degree,887,Female,Research Scientist,Married,49,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,888,Male,Laboratory Technician,Married,24,High School,1
+25 - 34,Sales,Life Sciences,889,Male,Sales Executive,Married,32,Associates Degree,1
+35 - 44,Sales,Marketing,893,Male,Sales Representative,Married,38,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,894,Female,Laboratory Technician,Married,42,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,895,Male,Research Scientist,Married,31,Master's Degree,1
+25 - 34,Sales,Medical,896,Female,Sales Representative,Divorced,29,Bachelor's Degree,1
+45 - 54,Sales,Marketing,897,Male,Sales Executive,Married,53,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,899,Male,Manufacturing Director,Married,35,Bachelor's Degree,1
+35 - 44,Sales,Medical,900,Female,Sales Representative,Married,37,Associates Degree,1
+45 - 54,R&D,Life Sciences,901,Female,Research Director,Single,53,Master's Degree,1
+35 - 44,R&D,Life Sciences,902,Female,Healthcare Representative,Married,43,Bachelor's Degree,1
+45 - 54,Sales,Marketing,903,Female,Sales Executive,Married,47,Associates Degree,1
+35 - 44,Sales,Medical,904,Male,Sales Executive,Single,37,Associates Degree,1
+45 - 54,R&D,Life Sciences,905,Male,Manager,Divorced,50,Master's Degree,1
+35 - 44,HR,Life Sciences,909,Female,Human Resources,Married,39,Bachelor's Degree,1
+25 - 34,HR,Human Resources,910,Male,Human Resources,Divorced,33,Associates Degree,1
+25 - 34,R&D,Life Sciences,911,Male,Laboratory Technician,Single,32,Master's Degree,1
+25 - 34,R&D,Medical,912,Female,Laboratory Technician,Divorced,29,High School,1
+35 - 44,R&D,Life Sciences,913,Male,Research Scientist,Married,44,Associates Degree,1
+25 - 34,Sales,Medical,916,Male,Sales Executive,Single,28,Master's Degree,1
+Over 55,R&D,Life Sciences,918,Male,Laboratory Technician,Divorced,58,High School,1
+35 - 44,R&D,Life Sciences,920,Female,Manufacturing Director,Divorced,43,Bachelor's Degree,1
+Under 25,Sales,Medical,922,Female,Sales Representative,Single,20,Bachelor's Degree,1
+Under 25,R&D,Other,923,Female,Research Scientist,Single,21,High School,1
+35 - 44,R&D,Life Sciences,924,Male,Healthcare Representative,Married,36,High School,1
+45 - 54,Sales,Life Sciences,925,Female,Sales Representative,Single,47,Master's Degree,1
+Under 25,R&D,Life Sciences,926,Female,Manufacturing Director,Married,22,High School,1
+35 - 44,R&D,Life Sciences,927,Female,Laboratory Technician,Divorced,41,Master's Degree,1
+25 - 34,R&D,Medical,930,Female,Research Scientist,Divorced,28,Bachelor's Degree,1
+35 - 44,R&D,Medical,932,Male,Laboratory Technician,Married,39,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,933,Female,Research Scientist,Single,27,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,934,Male,Laboratory Technician,Divorced,34,Bachelor's Degree,1
+35 - 44,Sales,Medical,936,Female,Sales Executive,Single,42,Associates Degree,1
+25 - 34,R&D,Other,939,Male,Research Scientist,Single,33,Master's Degree,1
+Over 55,R&D,Technical Degree,940,Female,Healthcare Representative,Divorced,58,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,941,Male,Sales Representative,Married,31,Master's Degree,1
+35 - 44,R&D,Life Sciences,942,Female,Healthcare Representative,Married,35,High School,1
+45 - 54,R&D,Other,944,Female,Laboratory Technician,Married,49,Associates Degree,1
+45 - 54,R&D,Medical,945,Male,Research Scientist,Married,48,Master's Degree,1
+25 - 34,Sales,Marketing,947,Female,Sales Executive,Married,31,Associates Degree,1
+35 - 44,R&D,Other,949,Male,Research Scientist,Single,36,Master's Degree,1
+35 - 44,R&D,Technical Degree,950,Female,Research Director,Married,38,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,951,Female,Laboratory Technician,Married,32,Bachelor's Degree,1
+25 - 34,Sales,Marketing,952,Male,Sales Representative,Married,25,Associates Degree,1
+35 - 44,Sales,Marketing,954,Male,Sales Executive,Divorced,40,Master's Degree,1
+25 - 34,Sales,Medical,956,Male,Sales Executive,Single,26,Bachelor's Degree,1
+35 - 44,R&D,Medical,957,Male,Laboratory Technician,Single,41,Bachelor's Degree,1
+35 - 44,R&D,Medical,958,Male,Laboratory Technician,Single,36,Master's Degree,1
+Under 25,Sales,Other,959,Male,Sales Representative,Single,19,Bachelor's Degree,1
+Under 25,R&D,Technical Degree,960,Male,Laboratory Technician,Single,20,Bachelor's Degree,1
+25 - 34,R&D,Medical,961,Female,Healthcare Representative,Married,31,Bachelor's Degree,1
+35 - 44,R&D,Medical,964,Male,Research Scientist,Divorced,40,Master's Degree,1
+25 - 34,R&D,Medical,966,Female,Manufacturing Director,Married,32,Master's Degree,1
+35 - 44,Sales,Life Sciences,967,Male,Sales Executive,Married,36,High School,1
+25 - 34,R&D,Life Sciences,969,Female,Healthcare Representative,Single,33,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,970,Male,Sales Executive,Married,37,Master's Degree,1
+45 - 54,R&D,Life Sciences,972,Male,Laboratory Technician,Married,45,Associates Degree,1
+25 - 34,Sales,Technical Degree,974,Female,Sales Representative,Married,29,Bachelor's Degree,1
+35 - 44,Sales,Medical,975,Female,Sales Executive,Married,35,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,976,Male,Manager,Married,52,Associates Degree,1
+Over 55,R&D,Technical Degree,977,Male,Research Scientist,Single,58,Bachelor's Degree,1
+45 - 54,Sales,Medical,981,Male,Manager,Divorced,53,Associates Degree,1
+25 - 34,Sales,Other,982,Male,Sales Executive,Divorced,30,Associates Degree,1
+35 - 44,Sales,Technical Degree,983,Female,Sales Executive,Single,38,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,984,Male,Sales Executive,Divorced,35,Master's Degree,1
+35 - 44,Sales,Life Sciences,985,Male,Sales Executive,Single,39,Doctoral Degree,1
+35 - 44,Sales,Life Sciences,986,Female,Sales Executive,Single,40,Bachelor's Degree,1
+45 - 54,R&D,Medical,987,Male,Manufacturing Director,Divorced,47,Master's Degree,1
+35 - 44,Sales,Technical Degree,990,Male,Sales Executive,Divorced,36,Master's Degree,1
+25 - 34,R&D,Medical,991,Male,Research Scientist,Single,31,Associates Degree,1
+25 - 34,Sales,Life Sciences,992,Male,Manager,Single,33,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,994,Female,Research Scientist,Single,29,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,995,Female,Research Scientist,Single,33,High School,1
+45 - 54,R&D,Medical,996,Female,Laboratory Technician,Divorced,45,Master's Degree,1
+45 - 54,R&D,Medical,997,Male,Research Director,Divorced,50,Associates Degree,1
+25 - 34,R&D,Other,998,Female,Healthcare Representative,Married,33,Master's Degree,1
+35 - 44,R&D,Medical,999,Male,Research Director,Divorced,41,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1001,Female,Laboratory Technician,Married,27,Master's Degree,1
+45 - 54,R&D,Life Sciences,1002,Male,Laboratory Technician,Married,45,Associates Degree,1
+45 - 54,Sales,Life Sciences,1003,Female,Sales Executive,Single,47,Associates Degree,1
+25 - 34,R&D,Life Sciences,1004,Female,Research Scientist,Married,30,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1005,Male,Manufacturing Director,Married,50,Bachelor's Degree,1
+35 - 44,R&D,Medical,1006,Male,Research Scientist,Married,38,High School,1
+45 - 54,R&D,Medical,1007,Male,Manufacturing Director,Divorced,46,Associates Degree,1
+Under 25,R&D,Medical,1009,Female,Manufacturing Director,Divorced,24,High School,1
+35 - 44,R&D,Other,1010,Male,Laboratory Technician,Divorced,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,1011,Female,Manufacturing Director,Married,31,High School,1
+Under 25,R&D,Life Sciences,1012,Male,Research Scientist,Single,18,Associates Degree,1
+45 - 54,R&D,Technical Degree,1013,Female,Manufacturing Director,Married,54,Bachelor's Degree,1
+35 - 44,R&D,Medical,1014,Female,Healthcare Representative,Divorced,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,1015,Female,Research Director,Married,30,Associates Degree,1
+Under 25,R&D,Medical,1016,Female,Research Scientist,Single,20,Bachelor's Degree,1
+25 - 34,R&D,Medical,1017,Female,Laboratory Technician,Single,30,Bachelor's Degree,1
+25 - 34,R&D,Medical,1018,Male,Manufacturing Director,Married,26,Associates Degree,1
+Under 25,R&D,Life Sciences,1019,Male,Laboratory Technician,Married,22,High School,1
+45 - 54,R&D,Life Sciences,1022,Male,Healthcare Representative,Single,48,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1024,Male,Healthcare Representative,Single,48,Master's Degree,1
+35 - 44,R&D,Medical,1025,Female,Manufacturing Director,Single,41,Associates Degree,1
+35 - 44,R&D,Life Sciences,1026,Female,Manufacturing Director,Married,39,High School,1
+25 - 34,R&D,Life Sciences,1027,Female,Manufacturing Director,Married,27,Master's Degree,1
+35 - 44,R&D,Other,1028,Male,Laboratory Technician,Divorced,35,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1029,Male,Manager,Married,42,Associates Degree,1
+45 - 54,R&D,Life Sciences,1030,Male,Laboratory Technician,Married,50,Bachelor's Degree,1
+Over 55,R&D,Life Sciences,1032,Female,Manufacturing Director,Single,59,Bachelor's Degree,1
+35 - 44,R&D,Medical,1033,Female,Healthcare Representative,Married,37,Associates Degree,1
+Over 55,R&D,Medical,1034,Male,Healthcare Representative,Married,55,Master's Degree,1
+35 - 44,R&D,Life Sciences,1035,Female,Research Director,Divorced,41,High School,1
+35 - 44,Sales,Life Sciences,1036,Male,Sales Executive,Single,38,Master's Degree,1
+25 - 34,Sales,Medical,1037,Male,Sales Executive,Single,26,Associates Degree,1
+45 - 54,Sales,Marketing,1038,Female,Manager,Married,52,High School,1
+35 - 44,Sales,Medical,1039,Female,Sales Executive,Married,44,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,1040,Female,Sales Executive,Married,50,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1042,Female,Laboratory Technician,Single,36,Master's Degree,1
+35 - 44,R&D,Medical,1043,Female,Manufacturing Director,Single,39,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1044,Female,Sales Representative,Single,33,High School,1
+45 - 54,Sales,Life Sciences,1045,Female,Manager,Married,45,Associates Degree,1
+25 - 34,R&D,Medical,1046,Female,Laboratory Technician,Single,32,Master's Degree,1
+25 - 34,Sales,Marketing,1047,Male,Sales Executive,Divorced,34,Master's Degree,1
+Over 55,Sales,Technical Degree,1048,Male,Manager,Married,59,Associates Degree,1
+45 - 54,HR,Medical,1049,Male,Human Resources,Single,45,Master's Degree,1
+45 - 54,Sales,Marketing,1050,Female,Sales Executive,Married,53,Bachelor's Degree,1
+35 - 44,R&D,Other,1052,Male,Laboratory Technician,Divorced,36,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1053,Male,Research Scientist,Married,26,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1055,Female,Sales Representative,Married,34,Master's Degree,1
+25 - 34,Sales,Medical,1056,Male,Sales Representative,Married,28,High School,1
+35 - 44,R&D,Other,1060,Male,Research Scientist,Married,38,Master's Degree,1
+45 - 54,R&D,Medical,1061,Male,Research Director,Married,50,Master's Degree,1
+35 - 44,R&D,Other,1062,Female,Healthcare Representative,Single,37,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1066,Male,Sales Executive,Married,40,Bachelor's Degree,1
+25 - 34,R&D,Medical,1068,Female,Research Scientist,Divorced,26,High School,1
+45 - 54,R&D,Medical,1069,Male,Research Director,Divorced,46,Master's Degree,1
+45 - 54,Sales,Life Sciences,1070,Female,Sales Executive,Married,54,Master's Degree,1
+Over 55,R&D,Medical,1071,Female,Research Scientist,Married,56,Bachelor's Degree,1
+35 - 44,R&D,Medical,1073,Female,Manufacturing Director,Single,36,Doctoral Degree,1
+Over 55,R&D,Medical,1074,Male,Manager,Single,55,High School,1
+35 - 44,Sales,Medical,1076,Male,Sales Executive,Divorced,43,Bachelor's Degree,1
+Under 25,Sales,Marketing,1077,Female,Sales Representative,Single,20,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,1079,Female,Laboratory Technician,Single,21,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1080,Female,Research Scientist,Divorced,46,Master's Degree,1
+45 - 54,R&D,Life Sciences,1081,Male,Research Scientist,Married,51,Master's Degree,1
+25 - 34,R&D,Technical Degree,1082,Male,Healthcare Representative,Single,28,Associates Degree,1
+25 - 34,R&D,Medical,1083,Male,Laboratory Technician,Married,26,Associates Degree,1
+25 - 34,R&D,Other,1084,Male,Manufacturing Director,Married,30,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,1085,Female,Research Scientist,Married,41,Associates Degree,1
+35 - 44,R&D,Life Sciences,1088,Female,Healthcare Representative,Married,38,High School,1
+35 - 44,R&D,Technical Degree,1092,Male,Healthcare Representative,Married,40,Master's Degree,1
+25 - 34,R&D,Life Sciences,1094,Male,Laboratory Technician,Married,27,Doctoral Degree,1
+Over 55,R&D,Life Sciences,1096,Male,Manufacturing Director,Married,55,High School,1
+25 - 34,R&D,Other,1097,Female,Research Scientist,Single,28,Bachelor's Degree,1
+35 - 44,HR,Medical,1098,Male,Human Resources,Married,44,Associates Degree,1
+25 - 34,R&D,Life Sciences,1099,Male,Healthcare Representative,Divorced,33,Bachelor's Degree,1
+35 - 44,Sales,Technical Degree,1100,Male,Sales Executive,Single,35,Bachelor's Degree,1
+25 - 34,R&D,Medical,1101,Female,Research Scientist,Single,33,Master's Degree,1
+25 - 34,R&D,Life Sciences,1102,Male,Laboratory Technician,Divorced,28,Associates Degree,1
+25 - 34,R&D,Life Sciences,1103,Male,Healthcare Representative,Single,34,High School,1
+35 - 44,Sales,Life Sciences,1105,Female,Sales Executive,Divorced,37,Master's Degree,1
+25 - 34,R&D,Technical Degree,1106,Male,Laboratory Technician,Married,25,High School,1
+25 - 34,R&D,Medical,1107,Male,Laboratory Technician,Divorced,26,Bachelor's Degree,1
+25 - 34,R&D,Medical,1108,Male,Research Scientist,Single,33,Bachelor's Degree,1
+35 - 44,R&D,Medical,1109,Male,Manager,Married,42,Associates Degree,1
+25 - 34,R&D,Medical,1111,Male,Laboratory Technician,Divorced,28,Bachelor's Degree,1
+45 - 54,Sales,Other,1113,Male,Sales Executive,Single,50,Master's Degree,1
+25 - 34,Sales,Life Sciences,1114,Female,Sales Executive,Married,33,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1115,Male,Research Scientist,Married,34,Master's Degree,1
+45 - 54,R&D,Medical,1116,Male,Manager,Single,48,Master's Degree,1
+45 - 54,Sales,Life Sciences,1117,Female,Sales Executive,Married,45,Master's Degree,1
+45 - 54,R&D,Life Sciences,1118,Male,Healthcare Representative,Single,52,Master's Degree,1
+35 - 44,Sales,Marketing,1119,Male,Sales Executive,Divorced,38,Master's Degree,1
+25 - 34,R&D,Life Sciences,1120,Female,Research Scientist,Divorced,29,Master's Degree,1
+25 - 34,R&D,Medical,1121,Female,Manufacturing Director,Divorced,28,Bachelor's Degree,1
+45 - 54,Sales,Marketing,1124,Male,Manager,Married,46,High School,1
+35 - 44,Sales,Marketing,1125,Male,Sales Executive,Single,38,Associates Degree,1
+35 - 44,R&D,Life Sciences,1126,Female,Manufacturing Director,Married,43,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1127,Male,Healthcare Representative,Divorced,39,Bachelor's Degree,1
+35 - 44,R&D,Medical,1128,Male,Research Director,Single,40,Bachelor's Degree,1
+Under 25,R&D,Technical Degree,1131,Female,Research Scientist,Single,21,High School,1
+35 - 44,R&D,Life Sciences,1132,Male,Laboratory Technician,Single,39,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1133,Male,Manufacturing Director,Single,36,Master's Degree,1
+25 - 34,Sales,Life Sciences,1135,Male,Sales Representative,Married,31,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1136,Male,Research Scientist,Married,28,High School,1
+35 - 44,Sales,Marketing,1137,Male,Sales Executive,Divorced,35,Associates Degree,1
+45 - 54,Sales,Technical Degree,1138,Male,Sales Executive,Married,49,Master's Degree,1
+25 - 34,R&D,Life Sciences,1140,Male,Manufacturing Director,Single,34,Associates Degree,1
+25 - 34,R&D,Life Sciences,1143,Female,Research Scientist,Divorced,29,Bachelor's Degree,1
+35 - 44,R&D,Medical,1148,Male,Laboratory Technician,Single,42,Bachelor's Degree,1
+25 - 34,R&D,Medical,1150,Male,Manufacturing Director,Married,29,High School,1
+35 - 44,HR,Human Resources,1152,Male,Human Resources,Married,38,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1154,Male,Research Scientist,Divorced,28,Bachelor's Degree,1
+Under 25,R&D,Medical,1156,Male,Laboratory Technician,Single,18,High School,1
+25 - 34,Sales,Marketing,1157,Female,Sales Executive,Single,33,Master's Degree,1
+35 - 44,R&D,Life Sciences,1158,Male,Laboratory Technician,Married,41,Master's Degree,1
+25 - 34,R&D,Medical,1160,Male,Laboratory Technician,Married,31,Bachelor's Degree,1
+35 - 44,R&D,Medical,1161,Female,Healthcare Representative,Divorced,37,Associates Degree,1
+25 - 34,R&D,Life Sciences,1162,Male,Research Scientist,Married,27,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1163,Female,Sales Executive,Married,34,High School,1
+35 - 44,HR,Technical Degree,1164,Male,Human Resources,Single,35,Master's Degree,1
+25 - 34,Sales,Life Sciences,1165,Female,Sales Executive,Married,29,High School,1
+35 - 44,R&D,Medical,1166,Female,Research Director,Single,40,Master's Degree,1
+35 - 44,Sales,Life Sciences,1167,Male,Sales Executive,Single,42,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1171,Male,Sales Executive,Single,42,Master's Degree,1
+35 - 44,R&D,Medical,1172,Male,Laboratory Technician,Married,35,Master's Degree,1
+Under 25,R&D,Medical,1173,Male,Laboratory Technician,Single,24,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1175,Female,Laboratory Technician,Married,28,High School,1
+25 - 34,R&D,Medical,1177,Male,Laboratory Technician,Married,26,Master's Degree,1
+25 - 34,Sales,Marketing,1179,Male,Sales Executive,Married,30,Bachelor's Degree,1
+35 - 44,R&D,Medical,1180,Female,Research Scientist,Married,40,Associates Degree,1
+35 - 44,R&D,Life Sciences,1182,Male,Manufacturing Director,Divorced,35,Bachelor's Degree,1
+25 - 34,R&D,Medical,1184,Male,Healthcare Representative,Single,34,Bachelor's Degree,1
+35 - 44,R&D,Other,1185,Male,Laboratory Technician,Married,35,Master's Degree,1
+35 - 44,Sales,Marketing,1188,Female,Sales Executive,Single,43,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1190,Female,Sales Representative,Divorced,32,High School,1
+Over 55,R&D,Technical Degree,1191,Female,Manager,Divorced,56,Master's Degree,1
+25 - 34,R&D,Medical,1192,Female,Laboratory Technician,Married,29,High School,1
+Under 25,R&D,Life Sciences,1193,Male,Research Scientist,Single,19,Associates Degree,1
+45 - 54,R&D,Medical,1195,Female,Research Scientist,Married,45,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1196,Female,Manufacturing Director,Married,37,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,1198,Male,Laboratory Technician,Single,20,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1200,Male,Research Scientist,Single,44,Master's Degree,1
+45 - 54,R&D,Medical,1201,Female,Manager,Divorced,53,Associates Degree,1
+25 - 34,R&D,Life Sciences,1202,Female,Research Scientist,Married,29,High School,1
+Under 25,R&D,Life Sciences,1203,Male,Research Scientist,Married,22,Master's Degree,1
+45 - 54,Sales,Marketing,1204,Female,Manager,Married,46,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1206,Male,Research Scientist,Single,44,Bachelor's Degree,1
+25 - 34,HR,Human Resources,1207,Male,Human Resources,Married,33,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1210,Male,Research Scientist,Divorced,41,Associates Degree,1
+25 - 34,Sales,Life Sciences,1211,Male,Sales Executive,Divorced,30,Master's Degree,1
+35 - 44,Sales,Medical,1212,Male,Sales Executive,Married,40,Master's Degree,1
+45 - 54,R&D,Medical,1215,Female,Manager,Married,50,Bachelor's Degree,1
+25 - 34,R&D,Medical,1216,Male,Laboratory Technician,Married,28,Master's Degree,1
+45 - 54,R&D,Life Sciences,1217,Male,Research Director,Married,46,Associates Degree,1
+35 - 44,Sales,Life Sciences,1218,Male,Sales Executive,Married,35,Master's Degree,1
+Under 25,R&D,Life Sciences,1219,Female,Laboratory Technician,Married,24,Associates Degree,1
+25 - 34,Sales,Medical,1220,Female,Sales Executive,Married,33,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1221,Male,Laboratory Technician,Divorced,36,Master's Degree,1
+25 - 34,R&D,Life Sciences,1224,Male,Laboratory Technician,Divorced,30,Master's Degree,1
+35 - 44,R&D,Other,1225,Male,Research Scientist,Single,44,Master's Degree,1
+Under 25,Sales,Marketing,1226,Male,Sales Representative,Single,20,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1228,Male,Manufacturing Director,Divorced,46,Master's Degree,1
+35 - 44,HR,Medical,1231,Male,Human Resources,Married,42,Doctoral Degree,1
+Over 55,Sales,Marketing,1233,Male,Sales Executive,Divorced,60,Master's Degree,1
+25 - 34,R&D,Other,1234,Female,Laboratory Technician,Married,32,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1235,Female,Research Scientist,Single,32,Associates Degree,1
+35 - 44,R&D,Technical Degree,1237,Female,Manufacturing Director,Divorced,36,Bachelor's Degree,1
+25 - 34,R&D,Medical,1238,Male,Research Scientist,Married,33,Bachelor's Degree,1
+35 - 44,Sales,Technical Degree,1239,Female,Sales Executive,Divorced,40,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1240,Male,Sales Executive,Single,25,Master's Degree,1
+25 - 34,R&D,Medical,1241,Male,Research Scientist,Married,30,Bachelor's Degree,1
+35 - 44,R&D,Medical,1242,Female,Research Director,Married,42,Doctoral Degree,1
+35 - 44,Sales,Marketing,1243,Female,Sales Executive,Married,35,Associates Degree,1
+25 - 34,R&D,Life Sciences,1244,Male,Research Scientist,Married,27,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1245,Female,Manufacturing Director,Divorced,54,Master's Degree,1
+35 - 44,R&D,Life Sciences,1246,Female,Research Scientist,Married,44,High School,1
+Under 25,R&D,Medical,1248,Female,Research Scientist,Single,19,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1249,Female,Research Scientist,Divorced,29,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1250,Male,Research Director,Married,54,Bachelor's Degree,1
+25 - 34,R&D,Medical,1251,Male,Healthcare Representative,Married,31,Associates Degree,1
+25 - 34,R&D,Medical,1252,Female,Healthcare Representative,Single,31,Bachelor's Degree,1
+Over 55,Sales,Life Sciences,1254,Female,Sales Executive,Single,59,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1255,Male,Research Director,Married,43,Bachelor's Degree,1
+45 - 54,R&D,Medical,1256,Male,Manager,Married,49,Associates Degree,1
+35 - 44,R&D,Technical Degree,1257,Male,Research Scientist,Married,36,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1258,Male,Laboratory Technician,Single,48,Associates Degree,1
+25 - 34,R&D,Life Sciences,1259,Male,Research Scientist,Divorced,27,Associates Degree,1
+25 - 34,R&D,Life Sciences,1260,Male,Healthcare Representative,Divorced,29,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1263,Male,Research Director,Single,48,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1264,Female,Research Director,Divorced,29,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1265,Female,Research Scientist,Married,34,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1267,Male,Manager,Married,44,Bachelor's Degree,1
+25 - 34,Sales,Marketing,1268,Male,Sales Executive,Divorced,33,Doctoral Degree,1
+Under 25,R&D,Life Sciences,1269,Female,Research Scientist,Single,19,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,1270,Male,Research Scientist,Married,23,Associates Degree,1
+25 - 34,Sales,Life Sciences,1273,Male,Sales Representative,Single,25,High School,1
+25 - 34,R&D,Life Sciences,1275,Male,Research Scientist,Single,26,Associates Degree,1
+45 - 54,Sales,Marketing,1277,Female,Manager,Single,45,Bachelor's Degree,1
+Over 55,R&D,Medical,1278,Male,Healthcare Representative,Divorced,55,High School,1
+Under 25,R&D,Life Sciences,1279,Female,Laboratory Technician,Single,21,Associates Degree,1
+45 - 54,Sales,Marketing,1280,Female,Manager,Married,46,Associates Degree,1
+25 - 34,Sales,Marketing,1281,Female,Sales Executive,Single,34,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,1282,Male,Manager,Divorced,51,Bachelor's Degree,1
+Over 55,R&D,Medical,1283,Male,Manufacturing Director,Single,59,Master's Degree,1
+25 - 34,R&D,Medical,1285,Female,Laboratory Technician,Divorced,34,Bachelor's Degree,1
+25 - 34,R&D,Medical,1286,Male,Laboratory Technician,Single,28,Master's Degree,1
+35 - 44,R&D,Life Sciences,1288,Male,Manager,Divorced,44,Associates Degree,1
+25 - 34,HR,Life Sciences,1289,Male,Human Resources,Married,34,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1291,Male,Research Scientist,Married,35,High School,1
+35 - 44,R&D,Medical,1292,Female,Research Scientist,Married,42,Master's Degree,1
+35 - 44,Sales,Marketing,1293,Female,Sales Executive,Single,43,Master's Degree,1
+35 - 44,R&D,Life Sciences,1294,Female,Manufacturing Director,Single,36,Master's Degree,1
+35 - 44,R&D,Medical,1295,Female,Healthcare Representative,Married,44,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1296,Male,Laboratory Technician,Married,28,Bachelor's Degree,1
+45 - 54,R&D,Medical,1297,Female,Laboratory Technician,Single,51,Associates Degree,1
+25 - 34,R&D,Medical,1298,Female,Manufacturing Director,Single,30,Associates Degree,1
+25 - 34,R&D,Technical Degree,1299,Female,Laboratory Technician,Divorced,29,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1301,Male,Research Scientist,Single,28,Bachelor's Degree,1
+25 - 34,R&D,Medical,1303,Female,Research Scientist,Single,25,Bachelor's Degree,1
+25 - 34,Sales,Medical,1304,Male,Sales Executive,Married,32,Bachelor's Degree,1
+45 - 54,R&D,Medical,1306,Female,Manager,Single,45,Bachelor's Degree,1
+35 - 44,R&D,Medical,1307,Female,Manager,Divorced,39,Master's Degree,1
+Over 55,R&D,Life Sciences,1308,Male,Research Scientist,Divorced,58,Master's Degree,1
+25 - 34,R&D,Life Sciences,1309,Male,Laboratory Technician,Married,32,Associates Degree,1
+35 - 44,R&D,Medical,1310,Male,Research Scientist,Single,39,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1311,Female,Laboratory Technician,Married,30,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,1312,Female,Healthcare Representative,Married,36,Master's Degree,1
+45 - 54,HR,Life Sciences,1314,Female,Human Resources,Single,46,Associates Degree,1
+25 - 34,R&D,Life Sciences,1315,Female,Laboratory Technician,Married,28,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1317,Female,Research Director,Married,50,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1318,Male,Sales Executive,Single,40,Master's Degree,1
+45 - 54,Sales,Life Sciences,1319,Male,Sales Executive,Single,52,Bachelor's Degree,1
+25 - 34,R&D,Medical,1321,Female,Manager,Married,30,Master's Degree,1
+35 - 44,R&D,Life Sciences,1322,Male,Manufacturing Director,Single,39,Associates Degree,1
+25 - 34,Sales,Life Sciences,1324,Female,Sales Executive,Divorced,31,Master's Degree,1
+35 - 44,Sales,Medical,1329,Male,Sales Executive,Single,41,Associates Degree,1
+25 - 34,Sales,Life Sciences,1331,Female,Sales Representative,Single,31,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1333,Male,Laboratory Technician,Married,44,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1334,Male,Manager,Married,42,High School,1
+Over 55,R&D,Medical,1336,Female,Manager,Married,55,Associates Degree,1
+Over 55,HR,Life Sciences,1338,Male,Manager,Single,56,Master's Degree,1
+35 - 44,R&D,Life Sciences,1340,Male,Research Scientist,Divorced,40,Associates Degree,1
+25 - 34,R&D,Life Sciences,1344,Male,Healthcare Representative,Divorced,34,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1346,Male,Research Scientist,Single,40,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1349,Female,Sales Executive,Divorced,41,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1350,Male,Research Scientist,Single,35,Master's Degree,1
+45 - 54,HR,Life Sciences,1352,Male,Manager,Divorced,51,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,1355,Female,Sales Executive,Divorced,38,Associates Degree,1
+25 - 34,Sales,Medical,1356,Female,Sales Executive,Single,34,Associates Degree,1
+25 - 34,R&D,Medical,1358,Male,Laboratory Technician,Married,25,High School,1
+Over 55,R&D,Medical,1360,Female,Manufacturing Director,Married,58,Master's Degree,1
+35 - 44,R&D,Life Sciences,1361,Male,Laboratory Technician,Married,40,Master's Degree,1
+35 - 44,Sales,Marketing,1362,Female,Sales Executive,Married,36,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1363,Male,Manufacturing Director,Single,48,Bachelor's Degree,1
+25 - 34,Sales,Medical,1364,Female,Sales Representative,Married,27,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1367,Female,Manufacturing Director,Single,51,Associates Degree,1
+Under 25,R&D,Life Sciences,1368,Female,Laboratory Technician,Single,18,Bachelor's Degree,1
+35 - 44,R&D,Medical,1369,Female,Laboratory Technician,Married,35,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1371,Male,Sales Executive,Single,27,High School,1
+Over 55,Sales,Marketing,1372,Male,Sales Executive,Single,55,Master's Degree,1
+Over 55,R&D,Life Sciences,1373,Male,Manufacturing Director,Married,56,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1374,Female,Research Scientist,Divorced,34,High School,1
+35 - 44,R&D,Medical,1375,Female,Healthcare Representative,Divorced,40,High School,1
+25 - 34,R&D,Medical,1377,Male,Laboratory Technician,Married,34,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1379,Female,Sales Representative,Single,31,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1380,Female,Sales Executive,Married,35,Master's Degree,1
+35 - 44,R&D,Life Sciences,1382,Male,Research Scientist,Divorced,38,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1383,Female,Healthcare Representative,Single,34,Master's Degree,1
+25 - 34,Sales,Life Sciences,1387,Male,Sales Executive,Married,28,Bachelor's Degree,1
+25 - 34,R&D,Medical,1389,Male,Manufacturing Director,Married,31,Master's Degree,1
+35 - 44,Sales,Life Sciences,1390,Male,Sales Executive,Married,39,Master's Degree,1
+45 - 54,Sales,Marketing,1391,Male,Sales Executive,Married,51,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1392,Female,Research Scientist,Divorced,41,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1394,Male,Research Scientist,Married,37,High School,1
+25 - 34,Sales,Life Sciences,1395,Male,Sales Executive,Married,33,High School,1
+25 - 34,Sales,Marketing,1396,Male,Sales Executive,Married,32,High School,1
+35 - 44,R&D,Life Sciences,1397,Male,Healthcare Representative,Married,39,Associates Degree,1
+25 - 34,Sales,Life Sciences,1399,Male,Sales Executive,Married,25,High School,1
+45 - 54,R&D,Medical,1401,Female,Manufacturing Director,Married,52,Associates Degree,1
+35 - 44,R&D,Medical,1402,Female,Research Scientist,Single,43,Bachelor's Degree,1
+25 - 34,Sales,Marketing,1403,Female,Sales Executive,Married,27,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1405,Female,Research Scientist,Single,27,Master's Degree,1
+25 - 34,R&D,Medical,1407,Male,Research Scientist,Single,26,High School,1
+35 - 44,HR,Human Resources,1408,Female,Manager,Married,42,Bachelor's Degree,1
+25 - 34,R&D,Medical,1955,Female,Healthcare Representative,Divorced,32,Master's Degree,1
+35 - 44,R&D,Medical,1662,Female,Manufacturing Director,Married,36,Master's Degree,1
+35 - 44,R&D,Life Sciences,1630,Female,Healthcare Representative,Married,35,Master's Degree,1
+45 - 54,R&D,Medical,2000,Female,Research Director,Married,47,High School,1
+Under 25,R&D,Medical,1839,Female,Research Scientist,Single,18,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,1929,Female,Sales Executive,Married,39,Master's Degree,1
+Under 25,Sales,Life Sciences,1495,Female,Sales Representative,Married,24,Associates Degree,1
+25 - 34,Sales,Marketing,1756,Female,Sales Executive,Single,33,Bachelor's Degree,1
+45 - 54,R&D,Medical,1900,Female,Manager,Divorced,48,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,2025,Female,Manufacturing Director,Divorced,36,Associates Degree,1
+35 - 44,R&D,Medical,1760,Female,Laboratory Technician,Married,38,Associates Degree,1
+25 - 34,R&D,Life Sciences,1870,Female,Research Scientist,Married,27,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,1985,Female,Laboratory Technician,Married,40,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1513,Female,Laboratory Technician,Married,29,High School,1
+35 - 44,R&D,Medical,1633,Female,Manufacturing Director,Single,39,Bachelor's Degree,1
+35 - 44,R&D,Medical,1480,Female,Laboratory Technician,Single,42,Associates Degree,1
+25 - 34,R&D,Technical Degree,1745,Female,Research Scientist,Single,30,Master's Degree,1
+35 - 44,Sales,Marketing,1481,Female,Sales Executive,Married,44,Doctoral Degree,1
+25 - 34,Sales,Marketing,1833,Female,Sales Executive,Married,31,Master's Degree,1
+25 - 34,HR,Human Resources,1987,Female,Human Resources,Married,25,Bachelor's Degree,1
+45 - 54,HR,Life Sciences,1625,Female,Manager,Married,47,Master's Degree,1
+25 - 34,HR,Medical,1461,Female,Human Resources,Single,31,Associates Degree,1
+25 - 34,R&D,Medical,1916,Female,Laboratory Technician,Divorced,31,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1829,Female,Healthcare Representative,Divorced,40,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1822,Female,Healthcare Representative,Divorced,40,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1762,Female,Research Scientist,Divorced,29,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1658,Female,Research Scientist,Divorced,34,Bachelor's Degree,1
+45 - 54,R&D,Other,1635,Female,Manufacturing Director,Divorced,45,Associates Degree,1
+45 - 54,R&D,Life Sciences,1656,Female,Research Director,Divorced,50,Doctoral Degree,1
+25 - 34,R&D,Medical,1502,Female,Laboratory Technician,Married,33,Master's Degree,1
+35 - 44,R&D,Medical,1866,Female,Manager,Married,43,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1786,Female,Manager,Married,51,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1701,Female,Research Scientist,Married,34,Bachelor's Degree,1
+25 - 34,R&D,Medical,1647,Female,Research Scientist,Married,27,Bachelor's Degree,1
+45 - 54,R&D,Other,1409,Female,Laboratory Technician,Married,52,Master's Degree,1
+35 - 44,R&D,Medical,2015,Female,Research Director,Married,38,Bachelor's Degree,1
+35 - 44,R&D,Medical,1640,Female,Research Scientist,Married,37,Bachelor's Degree,1
+25 - 34,R&D,Other,1544,Female,Healthcare Representative,Married,29,High School,1
+35 - 44,R&D,Life Sciences,2052,Female,Research Scientist,Married,35,Master's Degree,1
+35 - 44,R&D,Life Sciences,1802,Female,Laboratory Technician,Married,40,Associates Degree,1
+45 - 54,R&D,Life Sciences,1617,Female,Laboratory Technician,Married,49,Master's Degree,1
+45 - 54,R&D,Other,1576,Female,Research Scientist,Married,48,Master's Degree,1
+25 - 34,R&D,Life Sciences,1447,Female,Laboratory Technician,Married,34,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1555,Female,Research Scientist,Married,32,Associates Degree,1
+35 - 44,R&D,Other,1782,Female,Laboratory Technician,Married,38,Associates Degree,1
+35 - 44,R&D,Medical,1687,Female,Laboratory Technician,Married,38,Associates Degree,1
+25 - 34,R&D,Medical,1709,Female,Laboratory Technician,Married,29,Master's Degree,1
+45 - 54,R&D,Medical,1830,Female,Research Scientist,Married,54,Master's Degree,1
+35 - 44,R&D,Life Sciences,1628,Female,Manufacturing Director,Married,40,Bachelor's Degree,1
+45 - 54,R&D,Other,1655,Female,Research Director,Married,49,Master's Degree,1
+45 - 54,R&D,Life Sciences,1969,Female,Research Scientist,Married,54,Associates Degree,1
+45 - 54,R&D,Medical,1443,Female,Research Director,Married,47,Master's Degree,1
+45 - 54,R&D,Life Sciences,1888,Female,Manufacturing Director,Married,45,Associates Degree,1
+35 - 44,R&D,Life Sciences,1651,Female,Healthcare Representative,Married,36,Master's Degree,1
+25 - 34,R&D,Other,1607,Female,Research Scientist,Married,32,Master's Degree,1
+35 - 44,R&D,Medical,2051,Female,Research Scientist,Married,40,Master's Degree,1
+25 - 34,R&D,Life Sciences,1430,Female,Research Director,Single,31,Doctoral Degree,1
+35 - 44,R&D,Medical,1411,Female,Laboratory Technician,Single,37,Bachelor's Degree,1
+25 - 34,R&D,Medical,1816,Female,Manufacturing Director,Single,30,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1525,Female,Manufacturing Director,Single,39,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1856,Female,Laboratory Technician,Single,47,Master's Degree,1
+25 - 34,R&D,Life Sciences,2010,Female,Laboratory Technician,Single,32,Master's Degree,1
+Under 25,R&D,Medical,1735,Female,Laboratory Technician,Single,23,High School,1
+25 - 34,R&D,Medical,1751,Female,Research Scientist,Single,27,Bachelor's Degree,1
+25 - 34,R&D,Medical,2054,Female,Research Scientist,Single,29,Master's Degree,1
+35 - 44,R&D,Life Sciences,1529,Female,Healthcare Representative,Single,35,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1719,Female,Research Director,Single,45,Associates Degree,1
+45 - 54,R&D,Medical,1422,Female,Research Director,Single,54,Bachelor's Degree,1
+45 - 54,Sales,Technical Degree,1863,Female,Sales Executive,Divorced,46,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,1557,Female,Sales Executive,Divorced,48,Master's Degree,1
+25 - 34,Sales,Marketing,1428,Female,Sales Executive,Divorced,30,Master's Degree,1
+45 - 54,Sales,Life Sciences,1676,Female,Manager,Divorced,47,Master's Degree,1
+35 - 44,Sales,Life Sciences,2041,Female,Sales Executive,Married,38,Associates Degree,1
+35 - 44,Sales,Marketing,2045,Female,Sales Executive,Married,36,Master's Degree,1
+35 - 44,Sales,Marketing,2056,Female,Sales Executive,Married,39,High School,1
+35 - 44,Sales,Marketing,1986,Female,Sales Executive,Married,40,Associates Degree,1
+25 - 34,Sales,Medical,1875,Female,Sales Representative,Married,28,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,1527,Female,Manager,Married,46,Bachelor's Degree,1
+Over 55,Sales,Marketing,1935,Female,Sales Executive,Married,56,Doctoral Degree,1
+35 - 44,Sales,Life Sciences,1598,Female,Sales Executive,Married,40,Associates Degree,1
+25 - 34,Sales,Marketing,1784,Female,Sales Executive,Married,31,Master's Degree,1
+35 - 44,Sales,Medical,2024,Female,Sales Executive,Married,36,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1673,Female,Sales Executive,Married,31,Master's Degree,1
+35 - 44,Sales,Marketing,1436,Female,Sales Executive,Married,36,Master's Degree,1
+25 - 34,Sales,Marketing,2016,Female,Sales Executive,Married,32,Master's Degree,1
+25 - 34,Sales,Medical,1898,Female,Sales Executive,Single,27,Associates Degree,1
+35 - 44,Sales,Life Sciences,1583,Female,Sales Executive,Single,38,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,1585,Female,Sales Executive,Single,36,Master's Degree,1
+Under 25,Sales,Medical,1657,Female,Sales Representative,Single,20,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,1710,Female,Sales Representative,Single,36,Master's Degree,1
+25 - 34,Sales,Life Sciences,1779,Female,Sales Executive,Single,34,Associates Degree,1
+25 - 34,Sales,Other,2060,Female,Sales Representative,Single,26,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,2046,Female,Sales Executive,Single,45,Bachelor's Degree,1
+45 - 54,Sales,Marketing,1757,Female,Sales Executive,Single,49,Master's Degree,1
+25 - 34,HR,Life Sciences,1858,Male,Human Resources,Divorced,28,Associates Degree,1
+35 - 44,HR,Human Resources,1805,Male,Human Resources,Divorced,38,Bachelor's Degree,1
+35 - 44,HR,Human Resources,1722,Male,Human Resources,Married,41,Bachelor's Degree,1
+35 - 44,R&D,Medical,1804,Male,Manufacturing Director,Divorced,35,Associates Degree,1
+35 - 44,R&D,Medical,1468,Male,Research Director,Divorced,40,High School,1
+25 - 34,R&D,Technical Degree,1482,Male,Research Scientist,Divorced,30,Bachelor's Degree,1
+35 - 44,R&D,Other,1449,Male,Laboratory Technician,Divorced,40,Master's Degree,1
+25 - 34,R&D,Technical Degree,1771,Male,Research Scientist,Divorced,33,Bachelor's Degree,1
+25 - 34,R&D,Medical,1994,Male,Laboratory Technician,Divorced,33,Associates Degree,1
+45 - 54,R&D,Technical Degree,1934,Male,Research Scientist,Married,47,Master's Degree,1
+25 - 34,R&D,Technical Degree,1574,Male,Research Scientist,Married,32,Master's Degree,1
+35 - 44,R&D,Life Sciences,1813,Male,Research Scientist,Single,43,Bachelor's Degree,1
+25 - 34,R&D,Medical,2057,Male,Manufacturing Director,Single,31,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1764,Male,Research Scientist,Single,32,Master's Degree,1
+35 - 44,R&D,Life Sciences,1471,Male,Laboratory Technician,Single,44,Bachelor's Degree,1
+25 - 34,R&D,Medical,1947,Male,Research Scientist,Single,28,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,1440,Male,Laboratory Technician,Single,37,Associates Degree,1
+35 - 44,R&D,Life Sciences,1976,Male,Research Scientist,Single,42,Associates Degree,1
+35 - 44,R&D,Life Sciences,2022,Male,Manager,Single,39,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,2019,Male,Sales Representative,Divorced,52,Master's Degree,1
+45 - 54,Sales,Marketing,1612,Male,Sales Executive,Married,45,Bachelor's Degree,1
+45 - 54,Sales,Marketing,1731,Male,Sales Executive,Married,47,Master's Degree,1
+45 - 54,Sales,Life Sciences,1801,Male,Sales Executive,Single,46,Associates Degree,1
+35 - 44,HR,Human Resources,1563,Male,Human Resources,Married,38,Master's Degree,1
+Under 25,HR,Medical,1746,Male,Human Resources,Married,24,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1590,Male,Healthcare Representative,Divorced,29,High School,1
+25 - 34,R&D,Life Sciences,1615,Male,Manufacturing Director,Divorced,34,Master's Degree,1
+25 - 34,R&D,Medical,1485,Male,Research Director,Divorced,34,Bachelor's Degree,1
+25 - 34,R&D,Other,1431,Male,Research Scientist,Divorced,34,Master's Degree,1
+25 - 34,R&D,Life Sciences,1653,Male,Manufacturing Director,Divorced,25,High School,1
+45 - 54,R&D,Life Sciences,1941,Male,Research Director,Married,49,High School,1
+25 - 34,R&D,Medical,1852,Male,Laboratory Technician,Married,29,High School,1
+35 - 44,R&D,Life Sciences,1997,Male,Manufacturing Director,Married,38,Master's Degree,1
+25 - 34,R&D,Life Sciences,1720,Male,Research Scientist,Married,32,Bachelor's Degree,1
+25 - 34,R&D,Other,1918,Male,Laboratory Technician,Married,26,Bachelor's Degree,1
+35 - 44,R&D,Medical,2061,Male,Laboratory Technician,Married,36,Associates Degree,1
+25 - 34,R&D,Technical Degree,1597,Male,Healthcare Representative,Married,34,Master's Degree,1
+35 - 44,R&D,Life Sciences,1668,Male,Research Scientist,Married,38,Bachelor's Degree,1
+45 - 54,R&D,Medical,1922,Male,Healthcare Representative,Single,45,Master's Degree,1
+35 - 44,R&D,Life Sciences,1412,Male,Manufacturing Director,Single,35,Associates Degree,1
+25 - 34,R&D,Medical,1648,Male,Research Scientist,Single,27,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,1812,Male,Sales Executive,Divorced,39,Bachelor's Degree,1
+35 - 44,Sales,Medical,1700,Male,Sales Executive,Divorced,37,Master's Degree,1
+45 - 54,Sales,Medical,2065,Male,Sales Executive,Married,49,Bachelor's Degree,1
+25 - 34,Sales,Medical,1477,Male,Sales Executive,Married,33,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1507,Male,Sales Executive,Single,28,Bachelor's Degree,1
+25 - 34,Sales,Other,1613,Male,Sales Executive,Single,31,Master's Degree,1
+25 - 34,Sales,Marketing,1853,Male,Sales Executive,Single,32,Master's Degree,1
+35 - 44,HR,Other,1794,Male,Human Resources,Divorced,37,Associates Degree,1
+25 - 34,HR,Medical,1865,Male,Human Resources,Married,29,High School,1
+25 - 34,HR,Other,1419,Male,Human Resources,Single,29,Bachelor's Degree,1
+35 - 44,HR,Life Sciences,1778,Male,Human Resources,Single,43,Bachelor's Degree,1
+Over 55,R&D,Technical Degree,1694,Male,Research Scientist,Divorced,55,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1506,Male,Research Scientist,Divorced,28,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1892,Male,Manager,Divorced,40,Master's Degree,1
+25 - 34,R&D,Life Sciences,1881,Male,Laboratory Technician,Divorced,31,Bachelor's Degree,1
+35 - 44,R&D,Medical,1627,Male,Laboratory Technician,Divorced,39,Associates Degree,1
+35 - 44,R&D,Medical,1474,Male,Research Scientist,Divorced,40,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1857,Male,Manufacturing Director,Divorced,46,Associates Degree,1
+35 - 44,R&D,Technical Degree,1599,Male,Laboratory Technician,Divorced,43,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1940,Male,Research Scientist,Divorced,38,Associates Degree,1
+Over 55,R&D,Medical,1424,Male,Research Director,Divorced,55,Master's Degree,1
+45 - 54,R&D,Life Sciences,1484,Male,Healthcare Representative,Divorced,49,Master's Degree,1
+25 - 34,R&D,Life Sciences,1859,Male,Healthcare Representative,Divorced,29,High School,1
+25 - 34,R&D,Other,1619,Male,Laboratory Technician,Divorced,27,Bachelor's Degree,1
+25 - 34,R&D,Medical,1671,Male,Research Scientist,Divorced,32,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1553,Male,Healthcare Representative,Divorced,45,Master's Degree,1
+Under 25,R&D,Medical,1725,Male,Laboratory Technician,Divorced,24,High School,1
+Under 25,R&D,Technical Degree,1551,Male,Laboratory Technician,Divorced,24,Associates Degree,1
+35 - 44,R&D,Other,1871,Male,Research Scientist,Divorced,39,Master's Degree,1
+35 - 44,R&D,Life Sciences,2031,Male,Manager,Married,42,Bachelor's Degree,1
+35 - 44,R&D,Medical,1543,Male,Research Scientist,Married,37,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1434,Male,Laboratory Technician,Married,27,High School,1
+35 - 44,R&D,Life Sciences,1621,Male,Research Scientist,Married,35,Doctoral Degree,1
+25 - 34,R&D,Medical,2068,Male,Laboratory Technician,Married,34,Bachelor's Degree,1
+45 - 54,R&D,Medical,1689,Male,Healthcare Representative,Married,53,Master's Degree,1
+45 - 54,R&D,Life Sciences,1867,Male,Research Director,Married,48,Bachelor's Degree,1
+25 - 34,R&D,Medical,1989,Male,Laboratory Technician,Married,30,Associates Degree,1
+25 - 34,R&D,Life Sciences,1954,Male,Healthcare Representative,Married,29,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1473,Male,Healthcare Representative,Married,49,Master's Degree,1
+35 - 44,R&D,Life Sciences,1971,Male,Healthcare Representative,Married,43,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1415,Male,Laboratory Technician,Married,25,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1438,Male,Research Scientist,Married,47,Bachelor's Degree,1
+35 - 44,R&D,Medical,1826,Male,Laboratory Technician,Married,35,Master's Degree,1
+25 - 34,R&D,Medical,1609,Male,Research Scientist,Married,30,Bachelor's Degree,1
+25 - 34,R&D,Medical,1696,Male,Laboratory Technician,Married,34,Associates Degree,1
+25 - 34,R&D,Technical Degree,1931,Male,Research Scientist,Married,27,Master's Degree,1
+25 - 34,R&D,Life Sciences,1721,Male,Laboratory Technician,Married,31,Master's Degree,1
+25 - 34,R&D,Life Sciences,1729,Male,Research Scientist,Married,30,High School,1
+25 - 34,R&D,Life Sciences,1580,Male,Research Scientist,Married,34,Master's Degree,1
+35 - 44,R&D,Life Sciences,1903,Male,Healthcare Representative,Married,44,Master's Degree,1
+35 - 44,R&D,Medical,1542,Male,Laboratory Technician,Married,42,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1601,Male,Laboratory Technician,Married,35,Associates Degree,1
+35 - 44,R&D,Medical,1911,Male,Research Director,Married,42,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1799,Male,Research Scientist,Married,28,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1763,Male,Healthcare Representative,Married,30,Bachelor's Degree,1
+Under 25,R&D,Medical,1707,Male,Research Scientist,Married,24,Bachelor's Degree,1
+35 - 44,R&D,Medical,2062,Male,Healthcare Representative,Married,39,High School,1
+35 - 44,R&D,Life Sciences,1523,Male,Research Director,Married,44,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1728,Male,Manufacturing Director,Married,35,Master's Degree,1
+25 - 34,R&D,Life Sciences,1798,Male,Research Scientist,Married,33,Master's Degree,1
+Under 25,R&D,Technical Degree,1592,Male,Research Scientist,Married,23,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1682,Male,Healthcare Representative,Married,36,Master's Degree,1
+35 - 44,R&D,Life Sciences,2012,Male,Laboratory Technician,Married,40,Master's Degree,1
+35 - 44,R&D,Medical,1803,Male,Healthcare Representative,Married,42,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1596,Male,Laboratory Technician,Married,35,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1514,Male,Manufacturing Director,Married,28,High School,1
+25 - 34,R&D,Life Sciences,1558,Male,Research Scientist,Married,29,Bachelor's Degree,1
+35 - 44,R&D,Medical,1618,Male,Manufacturing Director,Married,39,Doctoral Degree,1
+25 - 34,R&D,Medical,1698,Male,Laboratory Technician,Married,33,Bachelor's Degree,1
+Over 55,R&D,Medical,1770,Male,Research Director,Married,55,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1631,Male,Manufacturing Director,Married,37,Bachelor's Degree,1
+25 - 34,R&D,Medical,1718,Male,Laboratory Technician,Married,26,Master's Degree,1
+35 - 44,R&D,Life Sciences,1435,Male,Laboratory Technician,Single,36,Master's Degree,1
+35 - 44,R&D,Life Sciences,1659,Male,Laboratory Technician,Single,36,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,1533,Male,Laboratory Technician,Single,23,High School,1
+25 - 34,R&D,Medical,1577,Male,Research Scientist,Single,34,Master's Degree,1
+35 - 44,R&D,Life Sciences,2014,Male,Research Scientist,Single,39,High School,1
+Under 25,R&D,Life Sciences,1981,Male,Healthcare Representative,Single,24,Associates Degree,1
+35 - 44,R&D,Medical,2008,Male,Research Scientist,Single,35,Master's Degree,1
+35 - 44,R&D,Life Sciences,1814,Male,Healthcare Representative,Single,41,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,2048,Male,Research Scientist,Single,40,Master's Degree,1
+25 - 34,R&D,Medical,1952,Male,Laboratory Technician,Single,26,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1727,Male,Healthcare Representative,Single,46,Master's Degree,1
+45 - 54,R&D,Life Sciences,1677,Male,Manager,Single,49,Bachelor's Degree,1
+Under 25,R&D,Medical,1623,Male,Research Scientist,Single,21,High School,1
+25 - 34,R&D,Other,1417,Male,Laboratory Technician,Single,26,Bachelor's Degree,1
+35 - 44,R&D,Medical,1564,Male,Laboratory Technician,Single,35,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1545,Male,Manufacturing Director,Single,33,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1883,Male,Laboratory Technician,Single,29,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,2038,Male,Research Scientist,Single,32,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1475,Male,Research Scientist,Single,44,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1860,Male,Laboratory Technician,Single,42,Bachelor's Degree,1
+Under 25,R&D,Life Sciences,2007,Male,Research Scientist,Single,22,Associates Degree,1
+Under 25,R&D,Other,1982,Male,Laboratory Technician,Single,23,Associates Degree,1
+45 - 54,R&D,Medical,1472,Male,Research Director,Single,53,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1453,Male,Sales Executive,Divorced,31,Associates Degree,1
+25 - 34,Sales,Marketing,1754,Male,Sales Executive,Divorced,30,Associates Degree,1
+35 - 44,Sales,Life Sciences,2037,Male,Sales Executive,Divorced,41,Bachelor's Degree,1
+25 - 34,Sales,Medical,1951,Male,Sales Executive,Divorced,34,Master's Degree,1
+25 - 34,Sales,Life Sciences,1497,Male,Sales Executive,Divorced,29,Bachelor's Degree,1
+25 - 34,Sales,Medical,1670,Male,Sales Executive,Divorced,33,Master's Degree,1
+45 - 54,Sales,Marketing,1466,Male,Sales Executive,Divorced,48,Bachelor's Degree,1
+35 - 44,Sales,Medical,1548,Male,Sales Executive,Married,40,Associates Degree,1
+25 - 34,Sales,Life Sciences,1560,Male,Sales Executive,Married,33,Master's Degree,1
+25 - 34,Sales,Life Sciences,1996,Male,Sales Representative,Married,31,Associates Degree,1
+25 - 34,Sales,Technical Degree,1749,Male,Sales Executive,Married,31,Bachelor's Degree,1
+25 - 34,Sales,Medical,2013,Male,Sales Representative,Married,32,Master's Degree,1
+35 - 44,Sales,Medical,1945,Male,Sales Executive,Married,35,Master's Degree,1
+25 - 34,Sales,Technical Degree,1568,Male,Sales Executive,Married,30,Master's Degree,1
+35 - 44,Sales,Life Sciences,1582,Male,Sales Executive,Married,38,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1739,Male,Sales Executive,Married,32,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,1492,Male,Sales Representative,Married,35,High School,1
+25 - 34,Sales,Marketing,1446,Male,Sales Executive,Married,32,Doctoral Degree,1
+35 - 44,Sales,Medical,1588,Male,Sales Executive,Married,39,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1787,Male,Sales Executive,Married,37,Associates Degree,1
+35 - 44,Sales,Marketing,1908,Male,Sales Executive,Married,36,Associates Degree,1
+35 - 44,Sales,Life Sciences,1995,Male,Sales Executive,Married,38,Master's Degree,1
+25 - 34,Sales,Life Sciences,1479,Male,Sales Executive,Married,30,High School,1
+35 - 44,Sales,Life Sciences,1961,Male,Sales Representative,Single,38,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1975,Male,Sales Executive,Single,39,Master's Degree,1
+35 - 44,Sales,Medical,1740,Male,Manager,Single,40,Master's Degree,1
+25 - 34,Sales,Marketing,1924,Male,Sales Executive,Single,33,Master's Degree,1
+25 - 34,Sales,Medical,1650,Male,Sales Executive,Single,29,Bachelor's Degree,1
+25 - 34,Sales,Medical,1836,Male,Sales Executive,Single,26,Bachelor's Degree,1
+25 - 34,Sales,Other,1478,Male,Sales Executive,Single,34,Bachelor's Degree,1
+Under 25,Sales,Life Sciences,1680,Male,Sales Representative,Single,20,High School,1
+25 - 34,Sales,Medical,1469,Male,Sales Executive,Single,28,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1708,Male,Sales Executive,Single,41,Bachelor's Degree,1
+25 - 34,Sales,Marketing,1965,Male,Sales Executive,Single,27,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,1602,Male,Manager,Single,46,Master's Degree,1
+Under 25,R&D,Other,1605,Female,Research Scientist,Married,22,Associates Degree,1
+35 - 44,R&D,Medical,1937,Female,Research Scientist,Divorced,38,Bachelor's Degree,1
+Under 25,R&D,Technical Degree,1646,Female,Research Scientist,Single,24,High School,1
+25 - 34,R&D,Life Sciences,1850,Female,Laboratory Technician,Single,27,Associates Degree,1
+35 - 44,HR,Life Sciences,1683,Female,Human Resources,Divorced,44,Bachelor's Degree,1
+35 - 44,HR,Life Sciences,2040,Female,Human Resources,Single,35,Master's Degree,1
+35 - 44,R&D,Medical,1608,Female,Research Director,Divorced,44,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1827,Female,Manufacturing Director,Divorced,47,Bachelor's Degree,1
+45 - 54,R&D,Medical,1674,Female,Laboratory Technician,Divorced,49,Bachelor's Degree,1
+25 - 34,R&D,Medical,1974,Female,Laboratory Technician,Divorced,31,High School,1
+35 - 44,R&D,Other,1886,Female,Manufacturing Director,Married,35,Associates Degree,1
+25 - 34,R&D,Life Sciences,1893,Female,Research Scientist,Married,26,Associates Degree,1
+35 - 44,R&D,Life Sciences,1724,Female,Manufacturing Director,Married,40,Associates Degree,1
+25 - 34,R&D,Medical,2009,Female,Healthcare Representative,Married,33,Associates Degree,1
+45 - 54,R&D,Life Sciences,1661,Female,Healthcare Representative,Married,49,High School,1
+35 - 44,R&D,Life Sciences,1703,Female,Healthcare Representative,Married,44,Bachelor's Degree,1
+35 - 44,R&D,Medical,1638,Female,Manufacturing Director,Married,38,Associates Degree,1
+35 - 44,R&D,Life Sciences,1614,Female,Manufacturing Director,Married,36,Master's Degree,1
+35 - 44,R&D,Medical,1587,Female,Healthcare Representative,Single,35,Master's Degree,1
+45 - 54,R&D,Medical,1611,Female,Laboratory Technician,Single,45,Doctoral Degree,1
+45 - 54,R&D,Medical,1980,Female,Manufacturing Director,Single,54,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1641,Female,Manufacturing Director,Single,40,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1815,Female,Sales Executive,Divorced,41,High School,1
+25 - 34,Sales,Medical,1912,Female,Sales Executive,Divorced,31,Associates Degree,1
+35 - 44,Sales,Life Sciences,1962,Female,Sales Executive,Married,35,Master's Degree,1
+25 - 34,Sales,Medical,1915,Female,Sales Executive,Married,34,High School,1
+35 - 44,Sales,Technical Degree,1880,Female,Sales Executive,Married,36,Master's Degree,1
+45 - 54,Sales,Medical,1503,Female,Sales Executive,Married,47,Bachelor's Degree,1
+Over 55,Sales,Life Sciences,1938,Female,Manager,Married,58,Bachelor's Degree,1
+Under 25,Sales,Medical,1445,Female,Sales Executive,Married,24,High School,1
+35 - 44,Sales,Marketing,1425,Female,Sales Executive,Single,36,Master's Degree,1
+35 - 44,R&D,Life Sciences,1552,Male,Healthcare Representative,Divorced,40,Associates Degree,1
+25 - 34,R&D,Medical,1948,Male,Research Scientist,Divorced,31,Associates Degree,1
+35 - 44,R&D,Life Sciences,1737,Male,Laboratory Technician,Married,39,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1774,Male,Sales Executive,Divorced,34,Bachelor's Degree,1
+35 - 44,HR,Human Resources,1642,Male,Human Resources,Married,44,Doctoral Degree,1
+35 - 44,HR,Other,1972,Male,Human Resources,Married,38,Master's Degree,1
+Over 55,R&D,Life Sciences,1837,Male,Research Director,Married,58,Master's Degree,1
+25 - 34,R&D,Other,1932,Male,Research Scientist,Married,34,Master's Degree,1
+35 - 44,R&D,Life Sciences,1594,Male,Laboratory Technician,Married,36,Master's Degree,1
+45 - 54,R&D,Medical,1606,Male,Healthcare Representative,Married,50,Doctoral Degree,1
+35 - 44,R&D,Life Sciences,1547,Male,Healthcare Representative,Married,42,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,2049,Male,Healthcare Representative,Married,35,Master's Degree,1
+35 - 44,R&D,Medical,1704,Male,Research Scientist,Single,35,Master's Degree,1
+35 - 44,R&D,Medical,1496,Male,Manufacturing Director,Single,44,High School,1
+45 - 54,R&D,Medical,1539,Male,Research Director,Single,50,Doctoral Degree,1
+25 - 34,R&D,Life Sciences,1753,Male,Healthcare Representative,Single,29,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1927,Male,Sales Executive,Married,28,Associates Degree,1
+Over 55,HR,Human Resources,1973,Male,Manager,Married,55,Master's Degree,1
+45 - 54,R&D,Medical,1460,Male,Healthcare Representative,Divorced,45,Bachelor's Degree,1
+45 - 54,R&D,Medical,1789,Male,Research Director,Divorced,46,Master's Degree,1
+35 - 44,R&D,Life Sciences,1998,Male,Research Scientist,Divorced,42,Master's Degree,1
+25 - 34,R&D,Other,1992,Male,Laboratory Technician,Divorced,25,High School,1
+35 - 44,R&D,Medical,1448,Male,Research Scientist,Married,41,Doctoral Degree,1
+Over 55,R&D,Life Sciences,1501,Male,Healthcare Representative,Married,55,Master's Degree,1
+35 - 44,R&D,Medical,1766,Male,Healthcare Representative,Married,38,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1549,Male,Laboratory Technician,Married,33,Master's Degree,1
+25 - 34,R&D,Other,2053,Male,Laboratory Technician,Married,29,Associates Degree,1
+35 - 44,R&D,Life Sciences,1790,Male,Healthcare Representative,Married,36,Bachelor's Degree,1
+35 - 44,R&D,Medical,2003,Male,Laboratory Technician,Married,35,Master's Degree,1
+45 - 54,R&D,Technical Degree,1465,Male,Manufacturing Director,Married,45,Bachelor's Degree,1
+25 - 34,R&D,Medical,1755,Male,Research Scientist,Married,34,Master's Degree,1
+25 - 34,R&D,Medical,1586,Male,Laboratory Technician,Single,29,High School,1
+35 - 44,R&D,Medical,2020,Male,Research Scientist,Single,44,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1515,Male,Healthcare Representative,Single,33,Doctoral Degree,1
+25 - 34,Sales,Medical,1669,Male,Sales Executive,Divorced,29,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,1732,Male,Sales Executive,Divorced,46,Bachelor's Degree,1
+35 - 44,Sales,Marketing,1943,Male,Sales Executive,Divorced,42,Master's Degree,1
+25 - 34,Sales,Technical Degree,1535,Male,Sales Executive,Married,34,Bachelor's Degree,1
+45 - 54,Sales,Marketing,1591,Male,Manager,Married,50,Bachelor's Degree,1
+35 - 44,Sales,Medical,1706,Male,Sales Executive,Married,43,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1882,Male,Sales Executive,Married,34,Bachelor's Degree,1
+Under 25,Sales,Medical,2021,Male,Sales Representative,Single,21,High School,1
+35 - 44,Sales,Life Sciences,1678,Male,Sales Executive,Single,41,Associates Degree,1
+25 - 34,R&D,Medical,1979,Female,Research Director,Married,31,Bachelor's Degree,1
+45 - 54,Sales,Life Sciences,1845,Female,Sales Executive,Married,45,Master's Degree,1
+45 - 54,R&D,Medical,1520,Female,Manager,Divorced,54,Master's Degree,1
+35 - 44,R&D,Medical,1675,Female,Laboratory Technician,Single,38,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1736,Female,Manufacturing Director,Single,31,High School,1
+45 - 54,HR,Life Sciences,1744,Female,Human Resources,Married,45,Bachelor's Degree,1
+25 - 34,R&D,Medical,1622,Female,Manufacturing Director,Divorced,28,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1581,Female,Research Scientist,Married,26,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,2034,Female,Manufacturing Director,Married,41,Master's Degree,1
+Over 55,R&D,Life Sciences,1441,Female,Research Scientist,Married,56,Associates Degree,1
+45 - 54,R&D,Medical,1665,Female,Manager,Married,54,Doctoral Degree,1
+45 - 54,R&D,Medical,1509,Female,Laboratory Technician,Married,49,Associates Degree,1
+25 - 34,R&D,Medical,1834,Female,Research Scientist,Married,28,Bachelor's Degree,1
+25 - 34,Sales,Medical,1864,Female,Sales Representative,Married,27,High School,1
+35 - 44,Sales,Marketing,1909,Female,Sales Executive,Married,41,Bachelor's Degree,1
+35 - 44,Sales,Life Sciences,1554,Female,Sales Representative,Married,35,Master's Degree,1
+25 - 34,Sales,Marketing,2035,Female,Sales Executive,Married,34,Bachelor's Degree,1
+Over 55,R&D,Life Sciences,2026,Male,Healthcare Representative,Divorced,56,Master's Degree,1
+35 - 44,R&D,Life Sciences,1949,Male,Laboratory Technician,Married,36,Master's Degree,1
+45 - 54,R&D,Life Sciences,1712,Male,Healthcare Representative,Married,45,High School,1
+35 - 44,R&D,Technical Degree,1854,Male,Research Scientist,Married,42,Master's Degree,1
+25 - 34,R&D,Medical,1693,Male,Laboratory Technician,Single,26,Bachelor's Degree,1
+Over 55,Sales,Medical,1824,Male,Manager,Divorced,58,Bachelor's Degree,1
+35 - 44,Sales,Marketing,2036,Male,Sales Executive,Divorced,36,Master's Degree,1
+35 - 44,HR,Human Resources,1890,Male,Human Resources,Single,36,High School,1
+25 - 34,R&D,Life Sciences,1970,Male,Healthcare Representative,Divorced,33,Associates Degree,1
+25 - 34,R&D,Life Sciences,1956,Male,Research Scientist,Married,31,Bachelor's Degree,1
+45 - 54,R&D,Medical,1644,Male,Manager,Married,48,Doctoral Degree,1
+35 - 44,Sales,Life Sciences,1849,Male,Sales Executive,Married,43,Master's Degree,1
+25 - 34,HR,Life Sciences,1499,Male,Human Resources,Divorced,30,Bachelor's Degree,1
+Over 55,R&D,Medical,1697,Male,Healthcare Representative,Divorced,60,Master's Degree,1
+35 - 44,R&D,Life Sciences,1664,Male,Healthcare Representative,Divorced,36,Associates Degree,1
+35 - 44,R&D,Life Sciences,1772,Male,Laboratory Technician,Divorced,41,Master's Degree,1
+35 - 44,R&D,Medical,1768,Male,Laboratory Technician,Divorced,42,Bachelor's Degree,1
+35 - 44,R&D,Medical,1654,Male,Manufacturing Director,Married,39,Bachelor's Degree,1
+35 - 44,R&D,Medical,1936,Male,Manufacturing Director,Married,39,Associates Degree,1
+Over 55,R&D,Technical Degree,1873,Male,Research Scientist,Married,55,Master's Degree,1
+Over 55,R&D,Life Sciences,1483,Male,Research Scientist,Married,57,Associates Degree,1
+35 - 44,R&D,Life Sciences,1666,Male,Research Director,Married,43,Associates Degree,1
+35 - 44,R&D,Life Sciences,1999,Male,Research Scientist,Married,41,Bachelor's Degree,1
+45 - 54,R&D,Technical Degree,1546,Male,Research Scientist,Married,45,Bachelor's Degree,1
+45 - 54,R&D,Medical,1993,Male,Healthcare Representative,Single,47,Bachelor's Degree,1
+35 - 44,R&D,Medical,1800,Male,Research Director,Single,39,High School,1
+25 - 34,R&D,Medical,1516,Male,Manager,Single,32,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1966,Male,Manufacturing Director,Single,32,Master's Degree,1
+35 - 44,R&D,Other,1595,Male,Manager,Single,42,Associates Degree,1
+Over 55,Sales,Marketing,1578,Male,Manager,Married,55,Doctoral Degree,1
+25 - 34,Sales,Technical Degree,1823,Male,Sales Executive,Married,34,Associates Degree,1
+25 - 34,Sales,Marketing,1950,Male,Sales Executive,Single,34,Bachelor's Degree,1
+45 - 54,R&D,Medical,1775,Female,Manufacturing Director,Married,53,Master's Degree,1
+25 - 34,Sales,Life Sciences,1681,Female,Sales Executive,Divorced,33,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,2017,Female,Research Director,Married,37,Bachelor's Degree,1
+Over 55,R&D,Medical,1423,Female,Research Director,Married,58,Bachelor's Degree,1
+35 - 44,R&D,Other,1847,Female,Research Scientist,Married,36,Master's Degree,1
+25 - 34,Sales,Other,2018,Female,Sales Executive,Divorced,25,Associates Degree,1
+35 - 44,Sales,Marketing,1835,Female,Sales Representative,Married,38,Master's Degree,1
+35 - 44,HR,Medical,1550,Male,Manager,Single,40,Associates Degree,1
+25 - 34,R&D,Life Sciences,2064,Male,Manufacturing Director,Married,27,Bachelor's Degree,1
+35 - 44,R&D,Medical,1885,Male,Research Scientist,Married,37,Master's Degree,1
+25 - 34,Sales,Technical Degree,1541,Male,Sales Representative,Married,34,Associates Degree,1
+35 - 44,Sales,Life Sciences,1556,Male,Sales Representative,Single,36,Master's Degree,1
+25 - 34,HR,Human Resources,1747,Female,Human Resources,Divorced,30,Bachelor's Degree,1
+25 - 34,HR,Human Resources,1944,Female,Human Resources,Married,27,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1459,Female,Manufacturing Director,Single,31,Doctoral Degree,1
+25 - 34,R&D,Life Sciences,1537,Female,Research Scientist,Single,31,Bachelor's Degree,1
+25 - 34,Sales,Technical Degree,1487,Female,Sales Executive,Single,29,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1427,Female,Sales Representative,Single,31,Master's Degree,1
+25 - 34,HR,Technical Degree,1467,Female,Human Resources,Married,34,Master's Degree,1
+45 - 54,R&D,Technical Degree,1572,Female,Manufacturing Director,Married,53,Doctoral Degree,1
+25 - 34,R&D,Life Sciences,1433,Female,Research Scientist,Single,31,Bachelor's Degree,1
+25 - 34,Sales,Marketing,1752,Female,Sales Representative,Single,29,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1807,Male,Laboratory Technician,Married,34,Master's Degree,1
+25 - 34,R&D,Medical,1504,Male,Laboratory Technician,Single,28,Associates Degree,1
+45 - 54,Sales,Life Sciences,2044,Male,Sales Executive,Divorced,50,Master's Degree,1
+45 - 54,Sales,Life Sciences,1716,Male,Sales Executive,Married,47,Bachelor's Degree,1
+25 - 34,Sales,Technical Degree,1486,Male,Sales Representative,Married,28,Bachelor's Degree,1
+Under 25,Sales,Marketing,2023,Male,Sales Representative,Married,23,Bachelor's Degree,1
+25 - 34,Sales,Technical Degree,1928,Male,Sales Representative,Single,29,Bachelor's Degree,1
+25 - 34,HR,Human Resources,1842,Male,Human Resources,Married,31,Doctoral Degree,1
+Under 25,HR,Human Resources,1714,Male,Human Resources,Married,24,High School,1
+25 - 34,R&D,Technical Degree,1960,Male,Laboratory Technician,Divorced,28,Bachelor's Degree,1
+Over 55,R&D,Technical Degree,2032,Male,Laboratory Technician,Married,56,Associates Degree,1
+35 - 44,R&D,Medical,1573,Male,Manufacturing Director,Married,38,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1522,Male,Research Scientist,Single,29,Master's Degree,1
+Over 55,R&D,Life Sciences,1907,Male,Laboratory Technician,Single,56,Associates Degree,1
+35 - 44,R&D,Life Sciences,1534,Male,Laboratory Technician,Single,40,Master's Degree,1
+35 - 44,R&D,Medical,1809,Male,Manufacturing Director,Single,37,Master's Degree,1
+25 - 34,R&D,Life Sciences,1692,Male,Laboratory Technician,Single,32,Master's Degree,1
+45 - 54,Sales,Marketing,1457,Male,Sales Executive,Divorced,46,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1439,Male,Sales Representative,Married,25,Associates Degree,1
+35 - 44,Sales,Medical,1639,Male,Sales Executive,Married,35,Bachelor's Degree,1
+25 - 34,Sales,Life Sciences,1562,Male,Sales Executive,Married,30,Bachelor's Degree,1
+25 - 34,Sales,Marketing,1761,Male,Sales Executive,Married,31,Master's Degree,1
+25 - 34,Sales,Life Sciences,1734,Male,Sales Executive,Single,32,Associates Degree,1
+Under 25,Sales,Marketing,1780,Male,Sales Representative,Single,21,High School,1
+25 - 34,Sales,Medical,1876,Male,Sales Representative,Single,30,Bachelor's Degree,1
+25 - 34,R&D,Life Sciences,1939,Female,Research Scientist,Single,32,Associates Degree,1
+25 - 34,R&D,Other,1421,Female,Healthcare Representative,Single,29,High School,1
+45 - 54,Sales,Medical,1691,Female,Sales Representative,Married,48,Associates Degree,1
+Under 25,Sales,Medical,1624,Female,Sales Representative,Single,18,Associates Degree,1
+25 - 34,HR,Medical,1818,Female,Human Resources,Married,26,Associates Degree,1
+35 - 44,R&D,Life Sciences,1569,Female,Laboratory Technician,Divorced,35,Bachelor's Degree,1
+Under 25,R&D,Medical,1783,Female,Laboratory Technician,Married,22,High School,1
+25 - 34,Sales,Marketing,1933,Female,Sales Executive,Single,28,Associates Degree,1
+35 - 44,R&D,Medical,1792,Male,Research Scientist,Divorced,44,Associates Degree,1
+25 - 34,R&D,Life Sciences,1464,Male,Laboratory Technician,Married,31,Bachelor's Degree,1
+35 - 44,R&D,Technical Degree,1767,Male,Research Scientist,Married,43,Bachelor's Degree,1
+Under 25,R&D,Medical,1494,Male,Laboratory Technician,Single,24,Bachelor's Degree,1
+25 - 34,Sales,Marketing,1967,Male,Sales Executive,Married,31,Master's Degree,1
+25 - 34,HR,Human Resources,1844,Male,Human Resources,Divorced,29,Bachelor's Degree,1
+25 - 34,R&D,Medical,2027,Male,Research Scientist,Married,29,Master's Degree,1
+25 - 34,R&D,Medical,1604,Male,Laboratory Technician,Married,28,Bachelor's Degree,1
+35 - 44,R&D,Life Sciences,1649,Male,Laboratory Technician,Single,40,Bachelor's Degree,1
+Under 25,R&D,Medical,1684,Male,Laboratory Technician,Single,23,High School,1
+45 - 54,Sales,Marketing,2055,Male,Sales Executive,Divorced,50,Bachelor's Degree,1
+35 - 44,Sales,Medical,1645,Male,Sales Executive,Divorced,35,Associates Degree,1
+35 - 44,Sales,Marketing,1733,Male,Sales Executive,Divorced,36,Doctoral Degree,1
+45 - 54,Sales,Life Sciences,1968,Male,Sales Executive,Single,53,Master's Degree,1
+25 - 34,Sales,Marketing,1862,Male,Sales Executive,Single,32,Master's Degree,1
+35 - 44,Sales,Life Sciences,1797,Male,Sales Executive,Single,35,Bachelor's Degree,1
+45 - 54,R&D,Medical,1821,Female,Healthcare Representative,Married,46,Associates Degree,1
+45 - 54,Sales,Life Sciences,1869,Female,Sales Executive,Married,46,Bachelor's Degree,1
+45 - 54,R&D,Life Sciences,1420,Male,Laboratory Technician,Single,49,Associates Degree,1
+35 - 44,R&D,Life Sciences,1458,Female,Laboratory Technician,Single,39,Bachelor's Degree,1
+25 - 34,Sales,Medical,1489,Female,Sales Executive,Single,34,Master's Degree,1
+25 - 34,Sales,Life Sciences,1758,Female,Sales Executive,Single,33,Bachelor's Degree,1
+25 - 34,R&D,Technical Degree,1905,Male,Research Scientist,Married,34,Master's Degree,1
+25 - 34,R&D,Life Sciences,1868,Male,Research Scientist,Single,29,Associates Degree,1
+35 - 44,Sales,Other,1667,Male,Sales Executive,Single,35,Master's Degree,1
+Under 25,R&D,Life Sciences,1878,Male,Research Scientist,Single,22,High School,1
+Under 25,Sales,Life Sciences,1702,Male,Sales Representative,Divorced,23,Bachelor's Degree,1
